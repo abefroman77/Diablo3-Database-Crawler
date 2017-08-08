@@ -1,4 +1,4 @@
-# Diablo3-Database-Crawler
+# Diablo3 database crawler
 Scrapes item data from https://us.battle.net/d3/en/item/ and saves in csv files
 
 ## Usage
