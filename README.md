@@ -8,4 +8,4 @@ Scrapes item data from https://us.battle.net/d3/en/item/ and saves in csv files
 3. Run the program (python main.py)
 4. Results are saved to armor_data.csv and weapon_data.csv
 
-If you just want to see the results, open armor_data.csv and weapon_data.csv from this repository
+If you just want to see the results, open armor_data.csv and weapon_data.csv from this results folder
