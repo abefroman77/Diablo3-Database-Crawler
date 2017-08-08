@@ -112,6 +112,13 @@ async def scrape_weapon_items(url):
                     item_type = item_type.find('span', item_class).get_text()
                     item_data.append(item_type)
 
+                    # If it's a set item, get set name
+                    try:
+                        item_set = item.find('li', {'class': 'item-itemset-name'}).span.get_text()
+                    except AttributeError:
+                        item_set = 'None'
+                    item_data.append(item_set)
+
                     # Finding DPS
                     item_dps = item.find('li', {'class': 'big'})
                     item_dps = item_dps.find('span', {'class': 'value'}).get_text()
