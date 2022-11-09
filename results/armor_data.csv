@@ -1,402 +1,503 @@
-Name,Item type,Armor value,Set
-Gloves of Worship,Legendary Gloves,42–55,None
-Grasps of Essence,Legendary Gloves,42–55,None
-Cain's Scribe,Set Gloves,56–69,Cain's Fate
-Stone Gauntlets,Legendary Gloves,192–209,None
-Magefist,Legendary Gloves,88–106,None
-St. Archew's Gage,Legendary Gloves,88–106,None
-Pendergrasps,Legendary Gloves,88–106,None
-Moribund Gauntlets,Legendary Gloves,144–168,None
-Gladiator Gauntlets,Legendary Gloves,250–278,None
-Asheara's Iron Fist,Set Gloves,169–191,Asheara's Uniform
-Frostburn,Legendary Gloves,280–308,None
-Tasker and Theo,Legendary Gloves,309–366,None
-Immortal King's Irons,Set Gloves,309–366,Immortal King's Call
-Inna's Hold,Set Gloves,309–366,Inna's Mantra
-Natalya's Touch,Set Gloves,309–366,Natalya's Vengeance
-Tal Rasha's Grasp,Set Gloves,309–366,Tal Rasha's Elements
-Zunimassa's Finger Wraps,Set Gloves,309–366,Zunimassa's Haunt
-Sage's Gesture,Set Gloves,583–664,Sage's Plight
-Penders Purchase,Legendary Gloves,513–590,None
-Arachyr's Claws,Set Gloves,513–590,Spirit of Arachyr
-Asheara's Ward,Set Gloves,513–590,Asheara's Vestments
-Cain's Scrivener,Set Gloves,513–590,Cain's Destiny
-Fiendish Grips,Set Gloves,513–590,Unhallowed Essence
-Fierce Gauntlets,Set Gloves,513–590,Delsere's Magnum Opus
-Firebird's Talons,Set Gloves,513–590,Firebird's Finery
-Fists of Thunder,Set Gloves,513–590,Raiment of a Thousand Storms
-Gauntlet of the Wastes,Set Gloves,513–590,Wrath of the Wastes
-Gauntlets of Akkhan,Set Gloves,513–590,Armor of Akkhan
-Helltooth Gauntlets,Set Gloves,513–590,Helltooth Harness
-Inarius's Will,Set Gloves,513–590,Grace of Inarius
-Jade Harvester's Mercy,Set Gloves,513–590,Raiment of the Jade Harvester
-Marauder's Gloves,Set Gloves,513–590,Embodiment of the Marauder
-Pestilence Gloves,Set Gloves,513–590,Pestilence Master's Shroud
-Pride of the Invoker,Set Gloves,513–590,Thorns of the Invoker
-Pull of the Earth,Set Gloves,513–590,Might of the Earth
-Raekor's Wraps,Set Gloves,513–590,The Legacy of Raekor
-Rathma's Macabre Vambraces,Set Gloves,513–590,Bones of Rathma
-Roland's Grasp,Set Gloves,513–590,Roland's Legacy
-Sage's Purchase,Set Gloves,513–590,Sage's Journey
-Sunwuko's Paws,Set Gloves,513–590,Monkey King's Garb
-The Shadow's Grasp,Set Gloves,513–590,The Shadow’s Mantle
-Trag'Oul's Claws,Set Gloves,513–590,Trag'Oul's Avatar
-Uliana's Fury,Set Gloves,513–590,Uliana's Stratagem
-Vyr's Grasping Gauntlets,Set Gloves,513–590,Vyr's Amazing Arcana
-Will of the Light,Set Gloves,513–590,Seeker of the Light
-Cloak of Deception,Legendary Cloak,36–41,None
-Beckon Sail,Legendary Cloak,217–254,None
-Blackfeather,Legendary Cloak,102–117,None
-Cape of the Dark Night,Legendary Cloak,660–759,None
-The Cloak of the Garwulf,Legendary Cloak,360–472,None
-Natalya's Embrace,Set Cloak,360–472,Natalya's Vengeance
-Cage of the Hellborn,Set Cloak,660–759,Unhallowed Essence
-See No Evil,Legendary Spirit Stone,36–41,None
-Gyana Na Kashu,Legendary Spirit Stone,60–80,None
-Erlang Shen,Legendary Spirit Stone,186–224,None
-The Mind's Eye,Legendary Spirit Stone,126–149,None
-Eye of Peshkov,Legendary Spirit Stone,102–117,None
-Kekegi's Unbreakable Spirit,Legendary Spirit Stone,102–117,None
-The Laws of Seph,Legendary Spirit Stone,102–117,None
-Bezoar Stone,Legendary Spirit Stone,225–254,None
-The Eye of the Storm,Legendary Spirit Stone,255–284,None
-Madstone,Legendary Spirit Stone,360–472,None
-Tzo Krin's Gaze,Legendary Spirit Stone,322–359,None
-Inna's Radiance,Set Spirit Stone,360–472,Inna's Mantra
-Saffron Wrap,Legendary Belt,108–127,None
-Goldwrap,Legendary Belt,88–107,None
-Vigilante Belt,Legendary Belt,24–28,None
-Insatiable Belt,Legendary Belt,24–28,None
-Binding of the Lost,Legendary Belt,34–43,None
-The Shame of Delsere,Legendary Belt,34–43,None
-Kyoshiro's Soul,Legendary Belt,44–53,None
-Dayntee's Binding,Legendary Belt,44–53,None
-Sacred Harness,Legendary Belt,44–53,None
-Quick Draw Belt,Legendary Belt,54–67,None
-Bakuli Jungle Wraps,Legendary Belt,112–132,None
-String of Ears,Legendary Belt,145–164,None
-Fazula's Improbable Chain,Legendary Belt,68–87,None
-Hergbrash's Binding,Legendary Belt,68–87,None
-Captain Crimson's Satin Sash,Set Belt,68–87,Captain Crimson's Finery
-Belt of Transcendence,Legendary Belt,68–87,None
-Blessed of Haull,Legendary Belt,68–87,None
-Chain of Shadows,Legendary Belt,68–87,None
-Cord of the Sherma,Legendary Belt,68–87,None
-Crashing Rain,Legendary Belt,68–87,None
-Harrington Waistguard,Legendary Belt,68–87,None
-Haunting Girdle,Legendary Belt,68–87,None
-Hwoj Wrap,Legendary Belt,68–87,None
-Omnislash,Legendary Belt,68–87,None
-Omryn's Chain,Legendary Belt,68–87,None
-Razor Strop,Legendary Belt,68–87,None
-Sash of Knives,Legendary Belt,68–87,None
-Sebor's Nightmare,Legendary Belt,68–87,None
-Angel Hair Braid,Legendary Belt,165–179,None
-Thundergod's Vigor,Legendary Belt,226–252,None
-Guardian's Sheath,Set Belt,326–354,Guardian's Contingency
-Belt of the Trove,Legendary Belt,286–318,None
-The Witching Hour,Legendary Belt,265–314,None
-Blackthorne's Notched Belt,Set Belt,265–314,Blackthorne's Battlegear
-Inna's Favor,Set Belt,265–314,Inna's Mantra
-Tal Rasha's Brace,Set Belt,265–314,Tal Rasha's Elements
-Demon's Lock,Set Belt,265–314,Demon's Skin
-Jang's Envelopment,Legendary Belt,265–314,None
-Fleeting Strap,Legendary Belt,440–506,None
-Hunter's Wrath,Legendary Belt,440–506,None
-Khassett's Cord of Righteousness,Legendary Belt,440–506,None
-Zoey's Secret,Legendary Belt,440–506,None
-Captain Crimson's Silk Girdle,Set Belt,440–506,Captain Crimson's Trimmings
-Demon's Restraint,Set Belt,440–506,Demon's Hide
-Guardian's Case,Set Belt,440–506,Guardian's Jeopardy
-Krelm's Buff Belt,Set Belt,440–506,Krelm’s Buff Bulwark
-Split Tusk,Legendary Voodoo Mask,36–41,None
-Quetzalcoatl,Legendary Voodoo Mask,84–97,None
-Carnevil,Legendary Voodoo Mask,102–117,None
-Mask of Jeram,Legendary Voodoo Mask,102–117,None
-The Grin Reaper,Legendary Voodoo Mask,255–284,None
-Tiklandian Visage,Legendary Voodoo Mask,360–472,None
-Visage of Giyua,Legendary Voodoo Mask,360–472,None
-Zunimassa's Vision,Set Voodoo Mask,360–472,Zunimassa's Haunt
-Heart of Iron,Legendary Chest Armor,87–107,None
-Aquila Cuirass,Legendary Chest Armor,69–86,None
-Born's Heart of Steel,Set Chest Armor,133–158,Born's Defiance
-Chaingmail,Legendary Chest Armor,138–167,None
-Cindercoat,Legendary Chest Armor,285–322,None
-Shi Mizu's Haori,Legendary Chest Armor,108–137,None
-Aughild's Dominion,Set Chest Armor,295–408,Aughild's Victory
-Goldskin,Legendary Chest Armor,217–246,None
-Tyrael's Might,Legendary Chest Armor,397–471,None
-Blackthorne's Surcoat,Set Chest Armor,397–471,Blackthorne's Battlegear
-Immortal King's Eternal Reign,Set Chest Armor,397–471,Immortal King's Call
-Inna's Vast Expanse,Set Chest Armor,397–471,Inna's Mantra
-Tal Rasha's Relentless Pursuit,Set Chest Armor,397–471,Tal Rasha's Elements
-Zunimassa's Marrow,Set Chest Armor,397–471,Zunimassa's Haunt
-Robes of the Rydraelm,Legendary Chest Armor,322–359,None
-Demon's Heart,Set Chest Armor,397–471,Demon's Skin
-Bloodsong Mail,Legendary Chest Armor,472–659,None
-Armor of the Kind Regent,Legendary Chest Armor,660–759,None
-Mantle of the Rydraelm,Legendary Chest Armor,660–759,None
-Requiem Cereplate,Legendary Chest Armor,660–759,None
-Arachyr's Carapace,Set Chest Armor,660–759,Spirit of Arachyr
-Aughild's Rule,Set Chest Armor,660–759,Aughild's Authority
-Born's Frozen Soul,Set Chest Armor,660–759,Born's Command
-Breastplate of Akkhan,Set Chest Armor,660–759,Armor of Akkhan
-Cuirass of the Wastes,Set Chest Armor,660–759,Wrath of the Wastes
-Demon's Marrow,Set Chest Armor,660–759,Demon's Hide
-Firebird's Breast,Set Chest Armor,660–759,Firebird's Finery
-Harness of Truth,Set Chest Armor,660–759,Delsere's Magnum Opus
-Heart of the Crashing Wave,Set Chest Armor,660–759,Raiment of a Thousand Storms
-Heart of the Light,Set Chest Armor,660–759,Seeker of the Light
-Helltooth Tunic,Set Chest Armor,660–759,Helltooth Harness
-Inarius's Conviction,Set Chest Armor,660–759,Grace of Inarius
-Jade Harvester's Peace,Set Chest Armor,660–759,Raiment of the Jade Harvester
-Marauder's Carapace,Set Chest Armor,660–759,Embodiment of the Marauder
-Pestilence Robe,Set Chest Armor,660–759,Pestilence Master's Shroud
-Raekor's Heart,Set Chest Armor,660–759,The Legacy of Raekor
-Rathma's Ribcage Plate,Set Chest Armor,660–759,Bones of Rathma
-Roland's Bearing,Set Chest Armor,660–759,Roland's Legacy
-Spirit of the Earth,Set Chest Armor,660–759,Might of the Earth
-Sunwuko's Soul,Set Chest Armor,660–759,Monkey King's Garb
-The Shadow's Bane,Set Chest Armor,660–759,The Shadow’s Mantle
-Trag'Oul's Scales,Set Chest Armor,660–759,Trag'Oul's Avatar
-Uliana's Heart,Set Chest Armor,660–759,Uliana's Stratagem
-Vyr's Astonishing Aura,Set Chest Armor,660–759,Vyr's Amazing Arcana
-Pox Faulds,Legendary Pants,33–38,None
-Death's Bargain,Legendary Pants,33–38,None
-Golemskin Breeches,Legendary Pants,63–77,None
-Cain's Robes,Set Pants,63–77,Cain's Fate
-Hammer Jammers,Legendary Pants,162–191,None
-Captain Crimson's Bowsprit,Set Pants,102–131,Captain Crimson's Finery
-Hexing Pants of Mr. Yan,Legendary Pants,102–131,None
-Defiler Cuisses,Legendary Pants,162–191,None
-Swamp Land Waders,Legendary Pants,217–246,None
-Asheara's Gait,Set Pants,217–246,Asheara's Uniform
-Depth Diggers,Legendary Pants,397–471,None
-Blackthorne's Jousting Mail,Set Pants,397–471,Blackthorne's Battlegear
-Immortal King's Stature,Set Pants,397–471,Immortal King's Call
-Inna's Temperance,Set Pants,397–471,Inna's Mantra
-Natalya's Leggings,Set Pants,397–471,Natalya's Vengeance
-Tal Rasha's Stride,Set Pants,397–471,Tal Rasha's Elements
-Zunimassa's Cloth,Set Pants,397–471,Zunimassa's Haunt
-Gehennas,Legendary Pants,732–805,None
-Demon's Scale,Set Pants,397–471,Demon's Skin
-Skelon's Deceit,Legendary Pants,660–759,None
-Arachyr's Legs,Set Pants,660–759,Spirit of Arachyr
-Asheara's Pace,Set Pants,660–759,Asheara's Vestments
-Cain's Habit,Set Pants,660–759,Cain's Destiny
-Captain Crimson's Thrust,Set Pants,660–759,Captain Crimson's Trimmings
-Cuisses of Akkhan,Set Pants,660–759,Armor of Akkhan
-Demon's Plate,Set Pants,660–759,Demon's Hide
-Firebird's Down,Set Pants,660–759,Firebird's Finery
-Helltooth Leg Guards,Set Pants,660–759,Helltooth Harness
-Inarius's Reticence,Set Pants,660–759,Grace of Inarius
-Jade Harvester's Courage,Set Pants,660–759,Raiment of the Jade Harvester
-Leg Guards of Mystery,Set Pants,660–759,Delsere's Magnum Opus
-Marauder's Encasement,Set Pants,660–759,Embodiment of the Marauder
-Pestilence Incantations,Set Pants,660–759,Pestilence Master's Shroud
-Raekor's Breeches,Set Pants,660–759,The Legacy of Raekor
-Rathma's Skeletal Legplates,Set Pants,660–759,Bones of Rathma
-Renewal of the Invoker,Set Pants,660–759,Thorns of the Invoker
-Roland's Determination,Set Pants,660–759,Roland's Legacy
-Scales of the Dancing Serpent,Set Pants,660–759,Raiment of a Thousand Storms
-Sunwuko's Leggings,Set Pants,660–759,Monkey King's Garb
-Tasset of the Wastes,Set Pants,660–759,Wrath of the Wastes
-The Shadow's Coil,Set Pants,660–759,The Shadow’s Mantle
-Towers of the Light,Set Pants,660–759,Seeker of the Light
-Trag'Oul's Hide,Set Pants,660–759,Trag'Oul's Avatar
-Uliana's Burden,Set Pants,660–759,Uliana's Stratagem
-Unholy Plates,Set Pants,660–759,Unhallowed Essence
-Vyr's Fantastic Finery,Set Pants,660–759,Vyr's Amazing Arcana
-Weight of the Earth,Set Pants,660–759,Might of the Earth
-Lut Socks,Legendary Boots,44–57,None
-Rivera Dancers,Legendary Boots,130–148,None
-The Crudest Boots,Legendary Boots,30–35,None
-Boots of Disregard,Legendary Boots,61–71,None
-Illusory Boots,Legendary Boots,30–35,None
-Cain's Sandals,Set Boots,58–66,Cain's Fate
-Captain Crimson's Whalers,Set Boots,67–82,Captain Crimson's Finery
-Irontoe Mudsputters,Legendary Boots,84–106,None
-Bryner's Journey,Legendary Boots,84–106,None
-Fire Walkers,Legendary Boots,280–308,None
-Lost Boys,Legendary Boots,192–209,None
-Steuart's Greaves,Legendary Boots,169–191,None
-Asheara's Tracks,Set Boots,169–191,Asheara's Uniform
-Ice Climbers,Legendary Boots,309–366,None
-Nilfur's Boast,Legendary Boots,309–366,None
-Blackthorne's Spurs,Set Boots,309–366,Blackthorne's Battlegear
-Immortal King's Stride,Set Boots,309–366,Immortal King's Call
-Inna's Sandals,Set Boots,309–366,Inna's Mantra
-Natalya's Bloody Footprints,Set Boots,309–366,Natalya's Vengeance
-Zunimassa's Trail,Set Boots,309–366,Zunimassa's Haunt
-Sage's Journey,Set Boots,583–664,Sage's Plight
-Board Walkers,Legendary Boots,513–590,None
-Arachyr's Stride,Set Boots,513–590,Spirit of Arachyr
-Asheara's Finders,Set Boots,513–590,Asheara's Vestments
-Cain's Travelers,Set Boots,513–590,Cain's Destiny
-Captain Crimson's Waders,Set Boots,513–590,Captain Crimson's Trimmings
-Eight-Demon Boots,Set Boots,513–590,Raiment of a Thousand Storms
-Firebird's Tarsi,Set Boots,513–590,Firebird's Finery
-Foundation of the Earth,Set Boots,513–590,Might of the Earth
-Foundation of the Light,Set Boots,513–590,Seeker of the Light
-Hell Walkers,Set Boots,513–590,Unhallowed Essence
-Helltooth Greaves,Set Boots,513–590,Helltooth Harness
-Inarius's Perseverance,Set Boots,513–590,Grace of Inarius
-Jade Harvester's Swiftness,Set Boots,513–590,Raiment of the Jade Harvester
-Marauder's Treads,Set Boots,513–590,Embodiment of the Marauder
-Pestilence Battle Boots,Set Boots,513–590,Pestilence Master's Shroud
-Raekor's Striders,Set Boots,513–590,The Legacy of Raekor
-Rathma's Ossified Sabatons,Set Boots,513–590,Bones of Rathma
-Roland's Stride,Set Boots,513–590,Roland's Legacy
-Sabaton of the Wastes,Set Boots,513–590,Wrath of the Wastes
-Sabatons of Akkhan,Set Boots,513–590,Armor of Akkhan
-Sage's Passage,Set Boots,513–590,Sage's Journey
-Striders of Destiny,Set Boots,513–590,Delsere's Magnum Opus
-The Shadow's Heels,Set Boots,513–590,The Shadow’s Mantle
-Trag'Oul's Stalwart Greaves,Set Boots,513–590,Trag'Oul's Avatar
-Uliana's Destiny,Set Boots,513–590,Uliana's Stratagem
-Vyr's Swaggering Stance,Set Boots,513–590,Vyr's Amazing Arcana
-Zeal of the Invoker,Set Boots,513–590,Thorns of the Invoker
-Homing Pads,Legendary Shoulders,144–164,None
-Pauldrons of the Skeleton King,Legendary Shoulders,89–104,None
-Razeth's Volition,Legendary Shoulders,58–68,None
-Born's Impunity,Set Shoulders,101–116,Born's Defiance
-Death Watch Mantle,Legendary Shoulders,240–252,None
-Corpsewhisper Pauldrons,Legendary Shoulders,80–100,None
-Fury of the Ancients,Legendary Shoulders,101–121,None
-Lefebvre's Soliloquy,Legendary Shoulders,101–121,None
-Mantle of Channeling,Legendary Shoulders,101–121,None
-Spaulders of Zakara,Legendary Shoulders,101–121,None
-Aughild's Reign,Set Shoulders,229–309,Aughild's Victory
-Asheara's Guard,Set Shoulders,193–219,Asheara's Uniform
-Vile Ward,Legendary Shoulders,353–419,None
-Seven Sins,Legendary Shoulders,286–318,None
-Demon's Flight,Set Shoulders,353–419,Demon's Skin
-Corruption,Legendary Shoulders,586–674,None
-Arachyr's Mantle,Set Shoulders,586–674,Spirit of Arachyr
-Asheara's Custodian,Set Shoulders,586–674,Asheara's Vestments
-Aughild's Power,Set Shoulders,586–674,Aughild's Authority
-Born's Privilege,Set Shoulders,586–674,Born's Command
-Burden of the Invoker,Set Shoulders,586–674,Thorns of the Invoker
-Dashing Pauldrons of Despair,Set Shoulders,959–1071,Delsere's Magnum Opus
-Demon's Aileron,Set Shoulders,586–674,Demon's Hide
-Firebird's Pinions,Set Shoulders,586–674,Firebird's Finery
-Helltooth Mantle,Set Shoulders,586–674,Helltooth Harness
-Inarius's Martyrdom,Set Shoulders,586–674,Grace of Inarius
-Jade Harvester's Joy,Set Shoulders,586–674,Raiment of the Jade Harvester
-Mantle of the Upside-Down Sinners,Set Shoulders,586–674,Raiment of a Thousand Storms
-Marauder's Spines,Set Shoulders,586–674,Embodiment of the Marauder
-Mountain of the Light,Set Shoulders,586–674,Seeker of the Light
-Pauldrons of Akkhan,Set Shoulders,586–674,Armor of Akkhan
-Pauldrons of the Wastes,Set Shoulders,586–674,Wrath of the Wastes
-Pestilence Defense,Set Shoulders,586–674,Pestilence Master's Shroud
-Raekor's Burden,Set Shoulders,586–674,The Legacy of Raekor
-Rathma's Spikes,Set Shoulders,586–674,Bones of Rathma
-Roland's Mantle,Set Shoulders,586–674,Roland's Legacy
-Spires of the Earth,Set Shoulders,586–674,Might of the Earth
-Sunwuko's Balance,Set Shoulders,586–674,Monkey King's Garb
-The Shadow's Burden,Set Shoulders,586–674,The Shadow’s Mantle
-Trag'Oul's Heart,Set Shoulders,586–674,Trag'Oul's Avatar
-Uliana's Strength,Set Shoulders,586–674,Uliana's Stratagem
-Unsanctified Shoulders,Set Shoulders,586–674,Unhallowed Essence
-Vyr's Proud Pauldrons,Set Shoulders,586–674,Vyr's Amazing Arcana
-Leoric's Crown,Legendary Helm,72–89,None
-Pride's Fall,Legendary Helm,36–41,None
-Broken Crown,Legendary Helm,54–71,None
-Cain's Memory,Set Helm,72–89,Cain's Fate
-Blind Faith,Legendary Helm,186–217,None
-Deathseer's Cowl,Legendary Helm,114–137,None
-Visage of Gunes,Legendary Helm,114–137,None
-Warhelm of Kassar,Legendary Helm,114–137,None
-Mask of Scarlet Death,Legendary Helm,138–161,None
-Aughild's Peak,Set Helm,289–402,Aughild's Victory
-Skull of Resonance,Legendary Helm,217–246,None
-Guardian's Foresight,Set Helm,247–269,Guardian's Contingency
-Andariel's Visage,Legendary Helm,360–397,None
-Fate's Vow,Legendary Helm,285–322,None
-Mempo of Twilight,Legendary Helm,397–471,None
-Immortal King's Triumph,Set Helm,397–471,Immortal King's Call
-Natalya's Sight,Set Helm,397–471,Natalya's Vengeance
-Tal Rasha's Guise of Wisdom,Set Helm,397–471,Tal Rasha's Elements
-The Helm of Command,Legendary Helm,360–397,None
-Sage's Orbit,Set Helm,807–917,Sage's Plight
-The Helm of Rule,Legendary Helm,660–759,None
-Accursed Visage,Set Helm,660–759,Unhallowed Essence
-Arachyr's Visage,Set Helm,660–759,Spirit of Arachyr
-Aughild's Spike,Set Helm,660–759,Aughild's Authority
-Cain's Insight,Set Helm,660–759,Cain's Destiny
-Crown of the Invoker,Set Helm,660–759,Thorns of the Invoker
-Crown of the Light,Set Helm,660–759,Seeker of the Light
-Eyes of the Earth,Set Helm,660–759,Might of the Earth
-Firebird's Plume,Set Helm,660–759,Firebird's Finery
-Guardian's Gaze,Set Helm,660–759,Guardian's Jeopardy
-Helltooth Mask,Set Helm,660–759,Helltooth Harness
-Helm of Akkhan,Set Helm,660–759,Armor of Akkhan
-Helm of the Wastes,Set Helm,660–759,Wrath of the Wastes
-Inarius's Understanding,Set Helm,660–759,Grace of Inarius
-Jade Harvester's Wisdom,Set Helm,660–759,Raiment of the Jade Harvester
-Marauder's Visage,Set Helm,660–759,Embodiment of the Marauder
-Mask of the Searing Sky,Set Helm,660–759,Raiment of a Thousand Storms
-Pestilence Mask,Set Helm,660–759,Pestilence Master's Shroud
-Raekor's Will,Set Helm,660–759,The Legacy of Raekor
-Rathma's Skull Helm,Set Helm,660–759,Bones of Rathma
-Roland's Visage,Set Helm,660–759,Roland's Legacy
-Sage's Apogee,Set Helm,660–759,Sage's Journey
-Shrouded Mask,Set Helm,660–759,Delsere's Magnum Opus
-Sunwuko's Crown,Set Helm,660–759,Monkey King's Garb
-The Shadow's Mask,Set Helm,660–759,The Shadow’s Mantle
-Trag'Oul's Guise,Set Helm,660–759,Trag'Oul's Avatar
-Uliana's Spirit,Set Helm,660–759,Uliana's Stratagem
-Vyr's Sightless Skull,Set Helm,660–759,Vyr's Amazing Arcana
-Ashnagarr's Blood Bracer,Legendary Bracers,16–19,None
-Cesar's Memento,Legendary Bracers,16–19,None
-Gungdo Gear,Legendary Bracers,41–48,None
-Bracers of Destruction,Legendary Bracers,25–32,None
-Bracers of the First Men,Legendary Bracers,25–32,None
-Gabriel's Vambraces,Legendary Bracers,25–32,None
-Pinto's Pride,Legendary Bracers,25–32,None
-Sanguinary Vambraces,Legendary Bracers,25–32,None
-Wraps of Clarity,Legendary Bracers,25–32,None
-Bindings of the Lesser Gods,Legendary Bracers,25–32,None
-Akkhan's Manacles,Legendary Bracers,33–40,None
-Jeram's Bracers,Legendary Bracers,50–62,None
-Bracer of Fury,Legendary Bracers,50–62,None
-Vambraces of Sescheron,Legendary Bracers,50–62,None
-Ancient Parthan Defenders,Legendary Bracers,63–75,None
-Custerian Wristguards,Legendary Bracers,63–75,None
-Nemesis Bracers,Legendary Bracers,63–75,None
-Warzechian Armguards,Legendary Bracers,63–75,None
-Aughild's Ultimatum,Set Bracers,175–247,Aughild's Victory
-Promise of Glory,Legendary Bracers,158–178,None
-Guardian's Deflector,Set Bracers,137–149,Guardian's Contingency
-Lacuni Prowlers,Legendary Bracers,220–261,None
-Strongarm Bracers,Legendary Bracers,200–220,None
-Wondrous Deflectors,Legendary Bracers,220–261,None
-Demon's Revenge,Set Bracers,220–261,Demon's Skin
-Coils of the First Spider,Legendary Bracers,366–421,None
-Drakon's Lesson,Legendary Bracers,366–421,None
-Kethryes' Splint,Legendary Bracers,366–421,None
-Lakumba's Ornament,Legendary Bracers,366–421,None
-Ranslor's Folly,Legendary Bracers,366–421,None
-Reaper's Wraps,Legendary Bracers,366–421,None
-Skular's Salvation,Legendary Bracers,366–421,None
-Spirit Guards,Legendary Bracers,366–421,None
-Trag'Oul Coils,Legendary Bracers,366–421,None
-Aughild's Search,Set Bracers,366–421,Aughild's Authority
-Demon's Animus,Set Bracers,366–421,Demon's Hide
-Guardian's Aversion,Set Bracers,366–421,Guardian's Jeopardy
-Krelm's Buff Bracers,Set Bracers,366–421,Krelm’s Buff Bulwark
-Shackles of the Invoker,Set Bracers,366–421,Thorns of the Invoker
-Girdle of Giants,Legendary Mighty Belt,53–61,None
-The Undisputed Champion,Legendary Mighty Belt,74–85,None
-Pride of Cassius,Legendary Mighty Belt,165–199,None
-Chilanik's Chain,Legendary Mighty Belt,90–104,None
-Lamentation,Legendary Mighty Belt,320–419,None
-Immortal King's Tribal Binding,Set Mighty Belt,320–419,Immortal King's Call
-Dread Iron,Legendary Mighty Belt,286–318,None
-Crown of the Primus,Legendary Wizard Hat,217–254,None
-The Swami,Legendary Wizard Hat,150–185,None
-Dark Mage's Shade,Legendary Wizard Hat,285–322,None
-Archmage's Vicalyke,Legendary Wizard Hat,102–117,None
-The Magistrate,Legendary Wizard Hat,102–117,None
-Velvet Camaral,Legendary Wizard Hat,102–117,None
-Storm Crow,Legendary Wizard Hat,360–472,None
+Class,Name,Item type,Armor value,Secondary Skill,Set,Set Skills
+Denial,Legendary Shield,320 - 383," Each enemy hit by your Sweep Attack increases the damage of your next Sweep Attack by 109%, stacking up to 5 times.",None,None
+Coven's Criterion,Legendary Shield,8 - 9, You take 52% less damage from blocked attacks.,None,None
+Wall of Bone,Legendary Shield,200 - 223,[20 - 30]% chance to be protected by a shield of bones when you are hit.,None,None
+Vo'Toyias Spiker,Legendary Shield,8 - 9, Enemies affected by Provoke take double damage from Thorns.,None,None
+Freeze of Deflection,Legendary Shield,580 - 619, Blocking an attack has a chance to Freeze the attacker for 0.8 seconds.,None,None
+Defender of Westmarch,Legendary Shield,8 - 9, Blocks have a chance of summoning a charging wolf that deals 927% weapon damage to all enemies it passes through.,None,None
+Eberli Charo,Legendary Shield,8 - 9, Reduces the cooldown of Heaven's Fury by 46%.,None,None
+Hallowed Defender,Set Shield,1060 - 1259,None,Hallowed Defenders,(2) Set:   +40 Resistance to All Elements  Attack Speed Increased by 5.0%
+Ivory Tower,Legendary Shield,860 - 959, Blocks release forward a Fires of Heaven.,None,None
+Wall of Man,Legendary Shield,1760 - 2024,[20 - 30]% chance to be protected by a shield of bones when you are hit.,None,None
+Hallowed Barricade,Set Shield,1760 - 2024,None,Hallowed Protectors,(2) Set:   +100 Resistance to All Elements  Attack Speed Increased by 10.0%
+Jesseth Skullshield,Set Shield,8 - 9,None,Jesseth Arms,"(2) Set:   When the target of your Command Skeletons dies, your skeletons are automatically commanded to attack a nearby target.  While your skeletons are commanded to attack a target, you deal 400% increased damage."
+Skeleton Key,Legendary Scoundrel Token,None, Equip on Follower: Your follower cannot die.,None,None
+Slipka's Letter Opener,Legendary Scoundrel Token,None, Equip on Follower: Reduce the cooldown of all Follower skills by 50%.,None,None
+Ribald Etchings,Legendary Scoundrel Token,None, Equip on Follower: Gain access to all skills.,None,None
+Gazing Demise,Legendary Mojo,None," The damage of Spirit Barrage is increased by 120%. Spirit Barrage gains the Phantasm rune which lasts twice as long, and the attack rate from Manitou spectres is increased.",None,None
+Homunculus,Legendary Mojo,None, A Zombie Dog is automatically summoned to your side every 2 seconds.,None,None
+Shukrani's Triumph,Legendary Mojo,None," After the initial duration of Spirit Walk ends, it will continue to last until you attack 3 times or until an elite enemy is within 20 yards of you. Attacks while in the spirit realm deal 85% increased damage.",None,None
+Thing of the Deep,Legendary Mojo,None, Increases Gold and Health Pickup by 20 yards.,None,None
+Manajuma's Gory Fetch,Set Mojo,None,None,Manajuma's Way,"(2) Set:   Your Hex - Angry Chicken explosion damage is increased by 2000% and slain enemies trigger an additional explosion.  Your Hex - Angry Chicken lasts 15 seconds and movement speed as a chicken is increased by an additional 100%.  While you are an angry chicken, you spawn a chicken every second that seeks enemies and deals 25% of your Angry Chicken explosion damage."
+Zunimassa's String of Skulls,Set Mojo,None,None,Zunimassa's Haunt,"(2) Set:   Your Fetish Army lasts until they die and the cooldown of your Fetish Army is reduced by 80%.(4) Set:   You and your pets take 3% less damage for every Fetish you have alive.(6) Set:   Enemies hit by your Mana spenders take 15,000% increased damage from your pets for 8 seconds."
+Uhkapian Serpent,Legendary Mojo,None, 27% of the damage you take is redirected to your Zombie Dogs.,None,None
+Ursua's Trodden Effigy,Legendary Mojo,None, Zombie Charger deals 120% increased damage. The Zombie Bears rune now summons 8 bears that travel farther.,None,None
+Henri's Perquisition,Legendary Mojo,None," The first time an enemy deals damage to you, reduce that damage by 65% and Charm the enemy for 3 seconds.",None,None
+Vile Hive,Legendary Mojo,None, Locust Swarm gains the effect of the Pestilence rune and deals 47% increased damage.,None,None
+Wilken's Reach,Legendary Mojo,None, Grasp of the Dead no longer has a cooldown.,None,None
+Spite,Legendary Mojo,None,Non-cleaving Gargantuans gain the cleave and chilling effects of the Humongoid rune.,None,None
+Pox Faulds,Legendary Pants,33 - 37," When 3 or more enemies are within 12 yards, you release a vile stench that deals 492% weapon damage as Poison every second for 5 seconds to enemies within 15 yards.",None,None
+Death's Bargain,Legendary Pants,33 - 37, Gain an aura of death that deals 792% of your Life per Second as Physical damage to enemies within 16 yards. You no longer regenerate Life.,None,None
+Cain's Robes,Set Pants,63 - 77,None,Cain's Fate,(2) Set:   Attack Speed Increased by 2.0%(3) Set:   10% Better Chance of Finding Magical Items  +50% Experience. (5.0% at level 70)
+Golemskin Breeches,Legendary Pants,33 - 37, The cooldown on Command Golem is reduced by 24 seconds and you take 30% less damage while your golem is alive.,None,None
+Hammer Jammers,Legendary Pants,162 - 191," Enemies take 342% increased damage from your Blessed Hammers for 10 seconds after you hit them with a Blind, Immobilize, or Stun.",None,None
+Captain Crimson's Bowsprit,Set Pants,102 - 131,None,Captain Crimson's Finery,(2) Set:   Regenerates 20 Life per Second(3) Set:   +20 Resistance to All Elements
+Hexing Pants of Mr. Yan,Legendary Pants,33 - 37, Your resource generation and damage is increased by 25% while moving and decreased by 24% while standing still.,None,None
+Defiler Cuisses,Legendary Pants,33 - 37, Your Bone Spirit's damage is increased by 442% for every second it is active and will also freeze enemies on impact. Maximum of 5 seconds.,None,None
+Swamp Land Waders,Legendary Pants,217 - 246, Sacrifice deals 342% additional damage against enemies affected by Locust Swarm or Grasp of the Dead.,None,None
+Asheara's Gait,Set Pants,217 - 246,None,Asheara's Uniform,(2) Set:   +30 Resistance to All Elements(3) Set:   2.50% of Damage Dealt Is Converted to Life  +300 Holy Thorns Damage
+Tal Rasha's Stride,Set Pants,397 - 471,None,Tal Rasha's Elements,"(2) Set:   Damaging enemies with Arcane, Cold, Fire or Lightning will grant immunity to that element and cause a Meteor of the same damage type to fall from the sky. This only occurs if the Wizard has Meteor on their action bar, and the same meteor cannot happen twice in a row.(4) Set:   Arcane, Cold, Fire, and Lightning attacks each increase all of your resistances by 100% for 8 seconds. Attacking with Meteor reduces the cooldown of Teleport by 1 second.(6) Set:   Attacks increase your damage by 2000% for 8 seconds. Arcane, Cold, Fire, and Lightning attacks each add one stack. At 4 stacks, each different elemental attack extends the duration by 2 seconds, up to a maximum of 8 seconds."
+Depth Diggers,Legendary Pants,397 - 471, Primary skills deal 87% additional damage.,None,None
+Zunimassa's Cloth,Set Pants,397 - 471,None,Zunimassa's Haunt,"(2) Set:   Your Fetish Army lasts until they die and the cooldown of your Fetish Army is reduced by 80%.(4) Set:   You and your pets take 3% less damage for every Fetish you have alive.(6) Set:   Enemies hit by your Mana spenders take 15,000% increased damage from your pets for 8 seconds."
+Immortal King's Stature,Set Pants,397 - 471,None,Immortal King's Call,"(2) Set:   Call of the Ancients last until they die.(4) Set:   Reduce the cooldown of Wrath of the Berserker and Call of the Ancients by 3 seconds for every 10 Fury you spend with an attack.(6) Set:   While both Wrath of the Berserker and Call of the Ancients is active, you deal 4000% increased damage."
+Demon's Scale,Set Pants,397 - 471,None,Demon's Skin,(2) Set:   +999 Fire Thorns Damage(3) Set:   1.1% Chance to Fear on Hit(4) Set:   +3% Damage to Demons  Chance to reflect projectiles when you are hit by enemies.
+Inna's Temperance,Set Pants,397 - 471,None,Inna's Mantra,"(2) Set:   Increase the passive effect of your Mystic Ally and the base passive effect of your Mantra by 100%.(4) Set:   Gain the base effect of all four Mantras at all times. You gain 5% damage reduction for each Mystic Ally you have out. Your Mystic Allies no longer take damage.(6) Set:   Gain the passive abilities of the five runed Mystic Allies at all times. Attacking enemies creates your chosen Mystic Ally that lasts 15 seconds, up to 10 Mystic Allies. The damage of your Mystic Allies is increased by 900% for each Mystic Ally you have out."
+Natalya's Leggings,Set Pants,397 - 471,None,Natalya's Vengeance,"(2) Set:   Reduce the cooldown of Rain of Vengeance by 4 seconds when you hit with a Hatred-generating attack or Hatred-spending attack.(4) Set:   Rain of Vengeance deals 100% increased damage.(6) Set:   After casting Rain of Vengeance, deal 14,000% increased damage and take 60% reduced damage for 10 seconds."
+Blackthorne's Jousting Mail,Set Pants,397 - 471,None,Blackthorne's Battlegear,"(2) Set:   +250 Vitality  Increases damage against elites by 10.0%(3) Set:   Reduces damage from elites by 10.0%  +25% Extra Gold from Monsters(4) Set:   You are immune to Desecrator, Molten, and Plagued monster ground effects."
+Demon's Plate,Set Pants,660 - 759,None,Demon's Hide,(2) Set:   +6000 Fire Thorns Damage(3) Set:   Chance to Deal 25% Area Damage on Hit.(4) Set:   +15% Damage to Demons  Chance to reflect projectiles when you are hit by enemies.
+Captain Crimson's Thrust,Set Pants,660 - 759,None,Captain Crimson's Trimmings,(2) Set:   Regenerates 6000 Life per Second  Reduces cooldown of all skills by 20.0%.  Reduces all resource costs by 20.0%.(3) Set:   Damage dealt is increased by your percentage of cooldown reduction.  Damage taken is reduced by your percentage of cost reduction.
+Renewal of the Invoker,Set Pants,33 - 37,None,Thorns of the Invoker,"(2) Set:   Your Thorns damage now hits all enemies in a 15 yard radius around you. Each time you hit an enemy with Punish, Slash, or block an attack your Thorns is increased by 90% for 2 seconds. This effect stacks up to 10 times. (4) Set:   You take 50% less damage for 20 seconds after damaging an enemy with Bombardment.(6) Set:   The attack speed of Punish and Slash are increased by 100% and deal 67,500% of your Thorns damage."
+Jade Harvester's Courage,Set Pants,33 - 37,None,Raiment of the Jade Harvester,"(2) Set:   When Haunt lands on an enemy already affected by Haunt, it instantly deals 3500 seconds worth of Haunt damage.(4) Set:   Soul Harvest gains the effect of every rune and has its cooldown reduced by 1 second every time you cast Haunt or Locust Swarm.(6) Set:   Soul Harvest reduces damage taken by 50% for 12 seconds and consumes your damage over time effects on enemies, instantly dealing 10,000 seconds worth of remaining damage."
+Vyr's Fantastic Finery,Set Pants,33 - 37,None,Vyr's Amazing Arcana,"(2) Set:   Archon gains the effect of every rune.(4) Set:   Archon stacks also increase your Attack Speed, Armor, and Resistances by 1%.(6) Set:   You gain 1 Archon stack when you hit with an Archon ability and Archon stacks also reduce damage taken by 0.15% and have their damage bonus increased to 100%."
+Sunwuko's Leggings,Set Pants,33 - 37,None,Monkey King's Garb,"(2) Set:   Your damage taken is reduced by 50% while Sweeping Wind is active.(4) Set:   Every second Sweeping Wind spawns a decoy next to the last enemy you hit that taunts nearby enemies and then explodes for 1000% weapon damage for each stack of Sweeping Wind you have.(6) Set:   Lashing Tail Kick, Tempest Rush, and Wave of Light have their damage increased by 1500% for each stack of Sweeping Wind you have."
+Cain's Habit,Set Pants,660 - 759,None,Cain's Destiny,"(2) Set:   Attack Speed Increased by 8.0%  +50% Experience. (5.0% at level 70)(3) Set:   When a Greater Rift Keystone drops, there is a 25% chance for an extra one to drop. (Emanates)(Emanates)"
+The Shadow's Coil,Set Pants,33 - 37,None,The Shadow�s Mantle,"(2) Set:   While equipped with a melee weapon, your damage is increased by 6000%.(4) Set:   Shadow Power gains the effect of every rune and lasts forever.(6) Set:   Impale deals an additional 75,000% weapon damage to the first enemy hit, and 25,000% to subsequent enemies."
+Weight of the Earth,Set Pants,33 - 37,None,Might of the Earth,"(2) Set:   Reduce the cooldown of Earthquake, Avalanche, Leap, and Ground Stomp by 1 second for every 30 Fury you spend with an attack.(4) Set:   Leap causes an Earthquake when you land. Additionally, Leap gains the effect of the Iron Impact rune and the rune's effect and duration are increased by 150%.(6) Set:   Increase the damage of Earthquake, Avalanche, Leap, Ground Stomp, Ancient Spear and Seismic Slam by 20,000%."
+Asheara's Pace,Set Pants,660 - 759,None,Asheara's Vestments,(2) Set:   +100 Resistance to All Elements(3) Set:   +20% Life(4) Set:   Attacks cause your followers to occasionally come to your aid.
+Raekor's Breeches,Set Pants,33 - 37,None,The Legacy of Raekor,"(2) Set:   Furious Charge refunds a charge if it hits only 1 enemy.(4) Set:   Furious Charge gains the effect of every rune and deals 1000% increased damage. For every 1% Life you are missing, the damage of your Ancient Spear is increased by 2%.(6) Set:   Hitting enemies with Furious Charge or Weapon Throw increases the damage of your next Ancient Spear by 5500% and causes it to release multiple spears from its target. This effect stacks and each spear throw consumes a maximum of 5 stacks."
+Tasset of the Wastes,Set Pants,33 - 37,None,Wrath of the Wastes,"(2) Set:   Increase the damage per second of Rend by 500% and its duration to 15 seconds.(4) Set:   During Whirlwind and for 3 seconds after, you gain 50% damage reduction and your applied Rends deal triple damage.(6) Set:   Whirlwind gains the effect of the Dust Devils rune and all Whirlwind and Rend damage is increased by 10,000%."
+Leggings of Savages,Set Pants,33 - 37,None,Horde of the Ninety Savages,"(2) Set:   Double the effectiveness of shouts. You deal double damage to Feared, Frozen, or Stunned enemies.(4) Set:   Each Frenzy stack reduces damage taken by 6%. Frenzy lasts twice as long.(6) Set:   Frenzy deals 1000% increased damage per stack."
+Chausses of Valor,Set Pants,33 - 37,None,Aegis of Valor,"(2) Set:   Attacking with Fists of the Heavens empowers you, allowing Heaven's Fury to deal 125% increased damage for 5 seconds. Stacks up to 3 times.(4) Set:   Hitting with Fist of the Heavens returns 5 Wrath and reduces damage taken by 1% for 10 seconds. Stacks up to 50 times.(6) Set:   Increase the damage of Fist of the Heavens and Heaven's Fury by 20,000%."
+Cuisses of Akkhan,Set Pants,33 - 37,None,Armor of Akkhan,"(2) Set:   Judgment has no cooldown and gains the effect of every rune.(4) Set:   Attacks from Phalanx Avatars reduce the cooldown of Akarat's Champion by 0.5 seconds, and also apply Condemn when attacking enemies that are affected by Judgment.(6) Set:   While Akarat's Champion is active, you deal 1500% increased damage and take 50% less damage."
+Towers of the Light,Set Pants,33 - 37,None,Seeker of the Light,"(2) Set:   Every use of Blessed Hammer that hits an enemy reduces the cooldown of Falling Sword and Provoke by 1 second.(4) Set:   You take 50% less damage for 8 seconds after landing with Falling Sword.(6) Set:   Increase the damage of Blessed Hammer by 15,000% and Falling Sword by 1000%."
+Roland's Determination,Set Pants,33 - 37,None,Roland's Legacy,"(2) Set:   Every use of Shield Bash and Sweep Attack reduces the cooldowns of your Laws and Defensive Skills by 1 second.(4) Set:   Increase the damage of Shield Bash and Sweep Attack by 17,500%.(6) Set:   Every use of Shield Bash or Sweep Attack that hits an enemy grants 75% increased Attack Speed and 15% damage reduction for 8 seconds. This effect stacks up to 5 times."
+Cold Cathode Trousers,Set Pants,33 - 37,None,Gears of Dreadlands,"(2) Set:   Gain 4 seconds of Momentum when attacking with a Primary skill, at a maximum duration of 20 seconds. Your Primary skills deal 10% increased damage per second of Momentum.(4) Set:   Strafing against enemies will automatically shoot your last used primary skill, and also give 60% damage reduction while strafing and for 5 seconds after. While Strafing, you gain 8% increased movement speed for each second of Momentum.(6) Set:   Your primary skills deal 15,000% increased damage."
+Unholy Plates,Set Pants,33 - 37,None,Unhallowed Essence,"(2) Set:   Your generators generate 2 additional Hatred and 1 Discipline.(4) Set:   Gain 60% damage reduction and deal 60% increased damage for 8 seconds if no enemy is within 10 yards of you.(6) Set:   Your generators, Multishot, and Vengeance deal 350% increased damage for every point of Discipline you have."
+Marauder's Encasement,Set Pants,33 - 37,None,Embodiment of the Marauder,"(2) Set:   Companion calls all companions to your side.(4) Set:   Sentries cast Elemental Arrow, Chakram, Impale, Multishot, and Cluster Arrow when you do, as well as automatically cast your equipped Hatred spenders.(6) Set:   Your primary skills, Elemental Arrow, Chakram, Impale, Multishot, Cluster Arrow, Companions, Vengeance, and Sentries deal 12,000% increased damage for every active Sentry."
+Scales of the Dancing Serpent,Set Pants,33 - 37,None,Raiment of a Thousand Storms,"(2) Set:   Your Spirit Generators have 25% increased attack speed and 400% increased damage.(4) Set:   Dashing Strike spends 75 Spirit, but refunds a Charge when it does.(6) Set:   Your Spirit Generators increase the weapon damage of Dashing Strike to 60,000% for 6 seconds and Dashing Strike increases the damage of your Spirit Generators by 6000% for 6 seconds."
+Mountains of Justice,Set Pants,33 - 37,None,Patterns of Justice,"(2) Set:   Sweeping Wind gains the effect of every rune, and movement speed is increased by 5% for each stack of Sweeping Wind.(4) Set:   Attacking with Tempest Rush reduces your damage taken by 50% and increases Spirit Regeneration by 50.(6) Set:   Hitting with Tempest Rush while Sweeping Wind is active increases the size of Sweeping Wind and also increases all damage dealt by 15,000%."
+Uliana's Burden,Set Pants,33 - 37,None,Uliana's Stratagem,(2) Set:   Every third hit of your Spirit Generators applies Exploding Palm.(4) Set:   Your Seven-Sided Strike deals 777% its total damage with each hit. All damage taken is reduced by 77% for 7 seconds after applying Exploding Palm to an enemy.(6) Set:   Increase the damage of your Exploding Palm by 9000% and your Seven-Sided Strike detonates your Exploding Palm.
+Firebird's Down,Set Pants,33 - 37,None,Firebird's Finery,"(2) Set:   Disintegrate Ignites enemies, causing them to take 3000% weapon damage per second until they die. When you die, a meteor falls from the sky and revives you. This effect has a 60 second cooldown.(4) Set:   Casting Disintegrate adds Combustion stacks that reduce the cooldown of Teleport by 2% per stack. Stacks up to 50 times. You gain 80% damage reduction while maintaining Combustion stacks. (6) Set:   You gain 5000% increased damage while Ignite is applied to a target. Hitting an Ignited enemy with a non-channeling fire spell deals Ignite damage multiplied by Combustion stacks. Pets cannot trigger this effect."
+Leg Guards of Mystery,Set Pants,33 - 37,None,Delsere's Magnum Opus,"(2) Set:   Hitting an enemy with Arcane Orb, Energy Twister, Magic Missile, Shock Pulse, Spectral Blade, Electrocute, or Arcane Torrent also casts Slow Time at them. This effect will not trigger if the target is already inside a Slow Time bubble. The cooldown of Teleport will reset while you're inside bubbles generated from this set or cast by you.(4) Set:   You take 75% reduced damage while you have a Slow Time active. Allies inside your Slow Time gain half benefit.(6) Set:   Enemies affected by your Slow Time and for 5 seconds after exiting take 12,500% increased damage from your Arcane Orb, Energy Twister, Magic Missile, Shock Pulse, Spectral Blade, Electrocute, and Arcane Torrent abilities."
+Typhon's Abdomen,Set Pants,33 - 37,None,The Typhon's Veil,"(2) Set:   Double the duration of Hydras and increase the number of heads on multi-headed Hydras by two.(4) Set:   Damage taken is reduced by 8% for each Hydra head alive. Each time you take damage, a head dies. A head cannot die more than once every 2 seconds.(6) Set:   Hydras deal 2000% increased damage for each Hydra head alive."
+Helltooth Leg Guards,Set Pants,33 - 37,None,Helltooth Harness,"(2) Set:   Enemies hit by your primary skills, Acid Cloud, Firebats, Zombie Charger, Zombie Dogs, Gargantuan, Grasp of the Dead, Piranhas, or Wall of Death are afflicted by Necrosis, becoming Slowed and taking 3000% weapon damage every second for 10 seconds.(4) Set:   After applying Necrosis to an enemy, you take 60% reduced damage for 10 seconds.(6) Set:   After casting Wall of Death, gain 17,500% increased damage for 15 seconds to your primary skills, Acid Cloud, Firebats, Zombie Charger, Zombie Dogs, Gargantuan, Grasp of the Dead, Piranhas, and Wall of Death."
+Arachyr's Legs,Set Pants,33 - 37,None,Spirit of Arachyr,"(2) Set:   Summon a permanent Spider Queen connected to you by an infested thread. Enemies caught in the thread are infested. Corpse Spider attacks against infested enemies inflict the same damage to all infested enemies. The Spider Queen is commanded to move to where you cast your Corpse Spiders. Corpse Spiders now spawns with health.(4) Set:   The Spider Queen now leaves behind webs that lasts for 15 seconds and Slows enemies. Infested enemies remain infested while on the web. You take 75% reduced damage while in the web and for 4 seconds after.(6) Set:   The damage of your creature skills is increased by 25,000%. Creature skills are Corpse Spiders, Plague of Toads, Firebats, Locust Swarm, Hex, and Piranhas."
+Mundunugu's Decoration,Set Pants,33 - 37,None,Mundunugu's Regalia,"(2) Set:   Big Bad Voodoo now follows you and lasts twice as long.(4) Set:   Gain 60% damage reduction for 30 seconds when you enter the spirit realm.(6) Set:   Spirit Barrage deals 20,000% increased damage plus an additional % equal to 5 times your Mana Regeneration/Second."
+Rathma's Skeletal Legplates,Set Pants,33 - 37,None,Bones of Rathma,"(2) Set:   Your permanent minions reduce the cooldown of Army of the Dead by 0.50 seconds each time they deal damage. Your skeletal warriors spawn faster, and your revived minions no longer expire.(4) Set:   Your minions no longer take damage. You gain 1% damage reduction for 15 seconds each time one of your minions deal damage. Max 75 stacks.(6) Set:   Each permanent active minion increases the damage of Army of the Dead by 1750%, up to 31,500%."
+Trag'Oul's Hide,Set Pants,33 - 37,None,Trag'Oul's Avatar,"(2) Set:   Blood Rush and Siphon Blood gain the effect of every rune. Your Life-spending abilities no longer cost Essence.(4) Set:   While at full Life, your healing from skills is added to your maximum Life for 45 seconds, up to 300% more.(6) Set:   Your Life-spending abilities deal 10,000% increased damage and your healing from skills is increased by 100%."
+Elegant Pants,Set Pants,33 - 37,None,Masquerade of the Burning Carnival,"(2) Set:   Simulacrums no longer take damage, gains all runes, and its cooldown is refreshed when you die.(4) Set:   While you have a Simulacrum, damage is reduced by 50%. Damage you take is split with your Simulacrums as well.(6) Set:   Bone Spear cast by you and your Simulacrums deals 6000% increased damage."
+Inarius's Reticence,Set Pants,33 - 37,None,Grace of Inarius,"(2) Set:   Bone Armor damage is increased by 1000%.(4) Set:   Bone Armor grants an additional 3% damage reduction per enemy hit.(6) Set:   Bone Armor also activates a swirling tornado of bone, damaging nearby enemies for 1000% weapon damage and increasing the damage they take from the Necromancer by 10,000%."
+Pestilence Incantations,Set Pants,33 - 37,None,Pestilence Master's Shroud,"(2) Set:   Each corpse you consume fires a Corpse Lance at a nearby enemy.(4) Set:   Each enemy you hit with Bone Spear, Corpse Lance and Corpse Explosion reduces your damage taken by 2%, up to a maximum of 50%.  Lasts 15 seconds.(6) Set:   Each corpse you consume grants you an Empowered Bone Spear charge that increases the damage of your next Bone Spear by 3300%. In addition, Corpse Lance and Corpse Explosion damage is increased by 3300%."
+Hillenbrand's Training Sword,Legendary Templar Relic,None, Equip on Follower: Reduce the cooldown of all Follower skills by 50%.,None,None
+Enchanting Favor,Legendary Templar Relic,None, Equip on Follower: Your follower cannot die.,None,None
+Relic of Akarat,Legendary Templar Relic,None, Equip on Follower: Gain access to all skills.,None,None
+The Undisputed Champion,Legendary Mighty Belt,74 - 85, Frenzy gains the effect of every rune and deals 342% increased damage.,None,None
+Girdle of Giants,Legendary Mighty Belt,53 - 61, Seismic Slam increases Earthquake damage by 207% for 3 seconds.,None,None
+Pride of Cassius,Legendary Mighty Belt,165 - 199, Increases the duration of Ignore Pain by 5 seconds.,None,None
+Chilanik's Chain,Legendary Mighty Belt,26 - 31, Using War Cry increases the movement speed for you and all allies affected by 35% for 10 seconds.,None,None
+Lamentation,Legendary Mighty Belt,320 - 419," Rend can now stack up to 2 times on an enemy, and the damage of Rend is increased by 107%.",None,None
+Dread Iron,Legendary Mighty Belt,200 - 225, Ground Stomp causes an Avalanche.,None,None
+Immortal King's Tribal Binding,Set Mighty Belt,320 - 419,None,Immortal King's Call,"(2) Set:   Call of the Ancients last until they die.(4) Set:   Reduce the cooldown of Wrath of the Berserker and Call of the Ancients by 3 seconds for every 10 Fury you spend with an attack.(6) Set:   While both Wrath of the Berserker and Call of the Ancients is active, you deal 4000% increased damage."
+Squirt's Necklace,Legendary Amulet,None," While not taking damage, damage dealt is increased by up to 100% and damage taken is increased by up to 50%.",None,None
+Moonlight Ward,Legendary Amulet,None," Hitting an enemy within 15 yards has a chance to ward you with shards of Arcane energy that explode when enemies get close, dealing 320% weapon damage as Arcane to enemies within 15 yards.",None,None
+Overwhelming Desire,Legendary Amulet,None," Chance on hit to charm the enemy. While charmed, the enemy takes 35% increased damage.",None,None
+Golden Gorget of Leoric,Legendary Amulet,None," After earning a massacre bonus, 6 Skeletons are summoned to fight by your side for 10 seconds.",None,None
+Wisdom of Kalan,Legendary Amulet,None, Increases the maximum stacks of Bone Armor by 5.,None,None
+Talisman of Aranoch,Legendary Amulet,None, Prevent all Cold damage taken and heal yourself for 12% of the amount prevented.,None,None
+Dovu Energy Trap,Legendary Amulet,None, Increases duration of Stun effects by 22%. (Emanates),None,None
+Ancestors' Grace,Legendary Amulet,None," When receiving fatal damage, you are instead restored to 100% of maximum Life and resources. This item is destroyed in the process.",None,None
+Countess Julia's Cameo,Legendary Amulet,None, Prevent all Arcane damage taken and heal yourself for 22% of the amount prevented.,None,None
+Rakoff's Glass of Life,Legendary Amulet,None, Enemies you kill have a 3% additional chance to drop a health globe. (Emanates),None,None
+The Ess of Johan,Legendary Amulet,None, Chance on hit to pull in enemies toward your target and Slow them by 60%.,None,None
+Haunt of Vaxo,Legendary Amulet,None, Summons shadow clones to your aid when you Stun an enemy. This effect may occur once every 30 seconds.,None,None
+The Flavor of Time,Legendary Amulet,None, Pylon effects last twice as long. (Emanates),None,None
+Kymbo's Gold,Legendary Amulet,None, Picking up gold heals you for an amount equal to the gold that was picked up.,None,None
+The Traveler's Pledge,Set Amulet,None,None,Endless Walk,"(2) Set:   While moving, damage taken is reduced by up to 50%.  While standing still, damage dealt is increased by up to 100%."
+Tal Rasha's Allegiance,Set Amulet,None,None,Tal Rasha's Elements,"(2) Set:   Damaging enemies with Arcane, Cold, Fire or Lightning will grant immunity to that element and cause a Meteor of the same damage type to fall from the sky. This only occurs if the Wizard has Meteor on their action bar, and the same meteor cannot happen twice in a row.(4) Set:   Arcane, Cold, Fire, and Lightning attacks each increase all of your resistances by 100% for 8 seconds. Attacking with Meteor reduces the cooldown of Teleport by 1 second.(6) Set:   Attacks increase your damage by 2000% for 8 seconds. Arcane, Cold, Fire, and Lightning attacks each add one stack. At 4 stacks, each different elemental attack extends the duration by 2 seconds, up to a maximum of 8 seconds."
+Mara's Kaleidoscope,Legendary Amulet,None, Prevent all Poison damage taken and heal yourself for 12% of the amount prevented.,None,None
+Blackthorne's Duncraig Cross,Set Amulet,None,None,Blackthorne's Battlegear,"(2) Set:   +250 Vitality  Increases damage against elites by 10.0%(3) Set:   Reduces damage from elites by 10.0%  +25% Extra Gold from Monsters(4) Set:   You are immune to Desecrator, Molten, and Plagued monster ground effects."
+The Star of Azkaranth,Legendary Amulet,None, Prevent all Fire damage taken and heal yourself for 12% of the amount prevented.,None,None
+Xephirian Amulet,Legendary Amulet,None, Prevent all Lightning damage taken and heal yourself for 12% of the amount prevented.,None,None
+The Johnstone,Legendary Amulet,None," When Land of the Dead expires, you are granted 50 stacks of Macabre Knowledge. Macabre Knowledge increases the damage of Corpse Lance and Corpse Explosion by 179%.",None,None
+Halcyon's Ascent,Legendary Amulet,None,"When you use Akarat's Champion, you mesmerize nearby enemies with your skill, causing them to jump uncontrollably for [6 - 8] seconds.",None,None
+Haunted Visions,Legendary Amulet,None, Simulacrum now drains 1% of your maximum life every second and lasts forever. They can now duplicate Grim Scythe instead of Skeletal Mage.,None,None
+Sunwuko's Shines,Set Amulet,None,None,Monkey King's Garb,"(2) Set:   Your damage taken is reduced by 50% while Sweeping Wind is active.(4) Set:   Every second Sweeping Wind spawns a decoy next to the last enemy you hit that taunts nearby enemies and then explodes for 1000% weapon damage for each stack of Sweeping Wind you have.(6) Set:   Lashing Tail Kick, Tempest Rush, and Wave of Light have their damage increased by 1500% for each stack of Sweeping Wind you have."
+Talisman of Akkhan,Set Amulet,None,None,Armor of Akkhan,"(2) Set:   Judgment has no cooldown and gains the effect of every rune.(4) Set:   Attacks from Phalanx Avatars reduce the cooldown of Akarat's Champion by 0.5 seconds, and also apply Condemn when attacking enemies that are affected by Judgment.(6) Set:   While Akarat's Champion is active, you deal 1500% increased damage and take 50% less damage."
+Pride's Fall,Legendary Helm,21 - 24, Your resource costs are reduced by 30% after not taking damage for 5 seconds.,None,None
+Broken Crown,Legendary Helm,54 - 71," Whenever a gem drops, a gem of the type socketed into your helmet also drops. This effect does not apply to Legendary Gems. (Emanates)",None,None
+Cain's Memory,Set Helm,72 - 89,None,Cain's Fate,(2) Set:   Attack Speed Increased by 2.0%(3) Set:   10% Better Chance of Finding Magical Items  +50% Experience. (5.0% at level 70)
+Deathseer's Cowl,Legendary Helm,21 - 24, 19% chance on being hit by an Undead enemy to charm it for 2 seconds.,None,None
+Warhelm of Kassar,Legendary Helm,21 - 24, Reduce the cooldown and increase the damage of Phalanx by 49%.,None,None
+Visage of Gunes,Legendary Helm,21 - 24, Vengeance gains the effect of the Dark Heart rune.,None,None
+Mask of Scarlet Death,Legendary Helm,21 - 24, Revive now consumes all corpses to raise a minion that deals 135% more damage per corpse.,None,None
+Aughild's Peak,Set Helm,162 - 185,None,Aughild's Victory,(2) Set:   Reduces damage from melee attacks by 2.0%(3) Set:   Reduces damage from ranged attacks by 2.0%.
+Skull of Resonance,Legendary Helm,217 - 246, Threatening Shout has a chance to Charm enemies and cause them to join your side.,None,None
+Guardian's Foresight,Set Helm,247 - 269,None,Guardian's Contingency,(2) Set:   +110 Vitality  Regenerates 130 Life per Second
+Natalya's Sight,Set Helm,397 - 471,None,Natalya's Vengeance,"(2) Set:   Reduce the cooldown of Rain of Vengeance by 4 seconds when you hit with a Hatred-generating attack or Hatred-spending attack.(4) Set:   Rain of Vengeance deals 100% increased damage.(6) Set:   After casting Rain of Vengeance, deal 14,000% increased damage and take 60% reduced damage for 10 seconds."
+Mempo of Twilight,Legendary Helm,397 - 471, Meteor Shower rune is now applied to all cast Meteors and deals 342% increased damage.,None,None
+Tal Rasha's Guise of Wisdom,Set Helm,397 - 471,None,Tal Rasha's Elements,"(2) Set:   Damaging enemies with Arcane, Cold, Fire or Lightning will grant immunity to that element and cause a Meteor of the same damage type to fall from the sky. This only occurs if the Wizard has Meteor on their action bar, and the same meteor cannot happen twice in a row.(4) Set:   Arcane, Cold, Fire, and Lightning attacks each increase all of your resistances by 100% for 8 seconds. Attacking with Meteor reduces the cooldown of Teleport by 1 second.(6) Set:   Attacks increase your damage by 2000% for 8 seconds. Arcane, Cold, Fire, and Lightning attacks each add one stack. At 4 stacks, each different elemental attack extends the duration by 2 seconds, up to a maximum of 8 seconds."
+Sage's Orbit,Set Helm,397 - 471,None,Sage's Plight,(2) Set:   +35 Strength  +35 Dexterity  +35 Intelligence  +35 Vitality
+Immortal King's Triumph,Set Helm,397 - 471,None,Immortal King's Call,"(2) Set:   Call of the Ancients last until they die.(4) Set:   Reduce the cooldown of Wrath of the Berserker and Call of the Ancients by 3 seconds for every 10 Fury you spend with an attack.(6) Set:   While both Wrath of the Berserker and Call of the Ancients is active, you deal 4000% increased damage."
+Andariel's Visage,Legendary Helm,360 - 396, Attacks release a Poison Nova that deals 380% weapon damage as Poison to enemies within 10 yards.,None,None
+Fate's Vow,Legendary Helm,21 - 24, Army of the Dead deals an additional 207% damage and gains the effect of the Unconventional Warfare rune.,None,None
+Jade Harvester's Wisdom,Set Helm,21 - 24,None,Raiment of the Jade Harvester,"(2) Set:   When Haunt lands on an enemy already affected by Haunt, it instantly deals 3500 seconds worth of Haunt damage.(4) Set:   Soul Harvest gains the effect of every rune and has its cooldown reduced by 1 second every time you cast Haunt or Locust Swarm.(6) Set:   Soul Harvest reduces damage taken by 50% for 12 seconds and consumes your damage over time effects on enemies, instantly dealing 10,000 seconds worth of remaining damage."
+Sunwuko's Crown,Set Helm,21 - 24,None,Monkey King's Garb,"(2) Set:   Your damage taken is reduced by 50% while Sweeping Wind is active.(4) Set:   Every second Sweeping Wind spawns a decoy next to the last enemy you hit that taunts nearby enemies and then explodes for 1000% weapon damage for each stack of Sweeping Wind you have.(6) Set:   Lashing Tail Kick, Tempest Rush, and Wave of Light have their damage increased by 1500% for each stack of Sweeping Wind you have."
+Sage's Apogee,Set Helm,660 - 759,None,Sage's Journey,(2) Set:   +250 Strength  +250 Dexterity  +250 Intelligence  +250 Vitality(3) Set:   Double the amount of Death's Breath that drop. (Emanates)(Emanates)
+Vyr's Sightless Skull,Set Helm,21 - 24,None,Vyr's Amazing Arcana,"(2) Set:   Archon gains the effect of every rune.(4) Set:   Archon stacks also increase your Attack Speed, Armor, and Resistances by 1%.(6) Set:   You gain 1 Archon stack when you hit with an Archon ability and Archon stacks also reduce damage taken by 0.15% and have their damage bonus increased to 100%."
+Cain's Insight,Set Helm,660 - 759,None,Cain's Destiny,"(2) Set:   Attack Speed Increased by 8.0%  +50% Experience. (5.0% at level 70)(3) Set:   When a Greater Rift Keystone drops, there is a 25% chance for an extra one to drop. (Emanates)(Emanates)"
+Crown of the Invoker,Set Helm,21 - 24,None,Thorns of the Invoker,"(2) Set:   Your Thorns damage now hits all enemies in a 15 yard radius around you. Each time you hit an enemy with Punish, Slash, or block an attack your Thorns is increased by 90% for 2 seconds. This effect stacks up to 10 times. (4) Set:   You take 50% less damage for 20 seconds after damaging an enemy with Bombardment.(6) Set:   The attack speed of Punish and Slash are increased by 100% and deal 67,500% of your Thorns damage."
+Aughild's Spike,Set Helm,660 - 759,None,Aughild's Authority,(2) Set:   Reduces damage taken by 15%.  Increases damage dealt by 30%.(3) Set:   Reduces damage from elites by 30.0%  Increases damage against elites by 30.0%
+The Shadow's Mask,Set Helm,21 - 24,None,The Shadow�s Mantle,"(2) Set:   While equipped with a melee weapon, your damage is increased by 6000%.(4) Set:   Shadow Power gains the effect of every rune and lasts forever.(6) Set:   Impale deals an additional 75,000% weapon damage to the first enemy hit, and 25,000% to subsequent enemies."
+Eyes of the Earth,Set Helm,21 - 24,None,Might of the Earth,"(2) Set:   Reduce the cooldown of Earthquake, Avalanche, Leap, and Ground Stomp by 1 second for every 30 Fury you spend with an attack.(4) Set:   Leap causes an Earthquake when you land. Additionally, Leap gains the effect of the Iron Impact rune and the rune's effect and duration are increased by 150%.(6) Set:   Increase the damage of Earthquake, Avalanche, Leap, Ground Stomp, Ancient Spear and Seismic Slam by 20,000%."
+Guardian's Gaze,Set Helm,660 - 759,None,Guardian's Jeopardy,"(2) Set:   Your melee damage reduction is increased by 1% per 1000 base Vitality from equipped items.  Your missile damage reduction is increased by 1% per 1000 base Strength, Dexterity, or Intelligence from equipped items depending on your class.(3) Set:   You gain an additional 100% of your base Strength, Dexterity, Intelligence, and Vitality attributes from equipped items."
+Raekor's Will,Set Helm,21 - 24,None,The Legacy of Raekor,"(2) Set:   Furious Charge refunds a charge if it hits only 1 enemy.(4) Set:   Furious Charge gains the effect of every rune and deals 1000% increased damage. For every 1% Life you are missing, the damage of your Ancient Spear is increased by 2%.(6) Set:   Hitting enemies with Furious Charge or Weapon Throw increases the damage of your next Ancient Spear by 5500% and causes it to release multiple spears from its target. This effect stacks and each spear throw consumes a maximum of 5 stacks."
+Helm of the Wastes,Set Helm,21 - 24,None,Wrath of the Wastes,"(2) Set:   Increase the damage per second of Rend by 500% and its duration to 15 seconds.(4) Set:   During Whirlwind and for 3 seconds after, you gain 50% damage reduction and your applied Rends deal triple damage.(6) Set:   Whirlwind gains the effect of the Dust Devils rune and all Whirlwind and Rend damage is increased by 10,000%."
+Skull of Savages,Set Helm,21 - 24,None,Horde of the Ninety Savages,"(2) Set:   Double the effectiveness of shouts. You deal double damage to Feared, Frozen, or Stunned enemies.(4) Set:   Each Frenzy stack reduces damage taken by 6%. Frenzy lasts twice as long.(6) Set:   Frenzy deals 1000% increased damage per stack."
+Crown of the Light,Set Helm,21 - 24,None,Seeker of the Light,"(2) Set:   Every use of Blessed Hammer that hits an enemy reduces the cooldown of Falling Sword and Provoke by 1 second.(4) Set:   You take 50% less damage for 8 seconds after landing with Falling Sword.(6) Set:   Increase the damage of Blessed Hammer by 15,000% and Falling Sword by 1000%."
+Crown of Valor,Set Helm,21 - 24,None,Aegis of Valor,"(2) Set:   Attacking with Fists of the Heavens empowers you, allowing Heaven's Fury to deal 125% increased damage for 5 seconds. Stacks up to 3 times.(4) Set:   Hitting with Fist of the Heavens returns 5 Wrath and reduces damage taken by 1% for 10 seconds. Stacks up to 50 times.(6) Set:   Increase the damage of Fist of the Heavens and Heaven's Fury by 20,000%."
+Roland's Visage,Set Helm,21 - 24,None,Roland's Legacy,"(2) Set:   Every use of Shield Bash and Sweep Attack reduces the cooldowns of your Laws and Defensive Skills by 1 second.(4) Set:   Increase the damage of Shield Bash and Sweep Attack by 17,500%.(6) Set:   Every use of Shield Bash or Sweep Attack that hits an enemy grants 75% increased Attack Speed and 15% damage reduction for 8 seconds. This effect stacks up to 5 times."
+Helm of Akkhan,Set Helm,21 - 24,None,Armor of Akkhan,"(2) Set:   Judgment has no cooldown and gains the effect of every rune.(4) Set:   Attacks from Phalanx Avatars reduce the cooldown of Akarat's Champion by 0.5 seconds, and also apply Condemn when attacking enemies that are affected by Judgment.(6) Set:   While Akarat's Champion is active, you deal 1500% increased damage and take 50% less damage."
+Accursed Visage,Set Helm,21 - 24,None,Unhallowed Essence,"(2) Set:   Your generators generate 2 additional Hatred and 1 Discipline.(4) Set:   Gain 60% damage reduction and deal 60% increased damage for 8 seconds if no enemy is within 10 yards of you.(6) Set:   Your generators, Multishot, and Vengeance deal 350% increased damage for every point of Discipline you have."
+Dystopian Goggles,Set Helm,21 - 24,None,Gears of Dreadlands,"(2) Set:   Gain 4 seconds of Momentum when attacking with a Primary skill, at a maximum duration of 20 seconds. Your Primary skills deal 10% increased damage per second of Momentum.(4) Set:   Strafing against enemies will automatically shoot your last used primary skill, and also give 60% damage reduction while strafing and for 5 seconds after. While Strafing, you gain 8% increased movement speed for each second of Momentum.(6) Set:   Your primary skills deal 15,000% increased damage."
+Marauder's Visage,Set Helm,21 - 24,None,Embodiment of the Marauder,"(2) Set:   Companion calls all companions to your side.(4) Set:   Sentries cast Elemental Arrow, Chakram, Impale, Multishot, and Cluster Arrow when you do, as well as automatically cast your equipped Hatred spenders.(6) Set:   Your primary skills, Elemental Arrow, Chakram, Impale, Multishot, Cluster Arrow, Companions, Vengeance, and Sentries deal 12,000% increased damage for every active Sentry."
+Mask of the Searing Sky,Set Helm,21 - 24,None,Raiment of a Thousand Storms,"(2) Set:   Your Spirit Generators have 25% increased attack speed and 400% increased damage.(4) Set:   Dashing Strike spends 75 Spirit, but refunds a Charge when it does.(6) Set:   Your Spirit Generators increase the weapon damage of Dashing Strike to 60,000% for 6 seconds and Dashing Strike increases the damage of your Spirit Generators by 6000% for 6 seconds."
+Uliana's Spirit,Set Helm,21 - 24,None,Uliana's Stratagem,(2) Set:   Every third hit of your Spirit Generators applies Exploding Palm.(4) Set:   Your Seven-Sided Strike deals 777% its total damage with each hit. All damage taken is reduced by 77% for 7 seconds after applying Exploding Palm to an enemy.(6) Set:   Increase the damage of your Exploding Palm by 9000% and your Seven-Sided Strike detonates your Exploding Palm.
+Decree of Justice,Set Helm,21 - 24,None,Patterns of Justice,"(2) Set:   Sweeping Wind gains the effect of every rune, and movement speed is increased by 5% for each stack of Sweeping Wind.(4) Set:   Attacking with Tempest Rush reduces your damage taken by 50% and increases Spirit Regeneration by 50.(6) Set:   Hitting with Tempest Rush while Sweeping Wind is active increases the size of Sweeping Wind and also increases all damage dealt by 15,000%."
+Firebird's Plume,Set Helm,21 - 24,None,Firebird's Finery,"(2) Set:   Disintegrate Ignites enemies, causing them to take 3000% weapon damage per second until they die. When you die, a meteor falls from the sky and revives you. This effect has a 60 second cooldown.(4) Set:   Casting Disintegrate adds Combustion stacks that reduce the cooldown of Teleport by 2% per stack. Stacks up to 50 times. You gain 80% damage reduction while maintaining Combustion stacks. (6) Set:   You gain 5000% increased damage while Ignite is applied to a target. Hitting an Ignited enemy with a non-channeling fire spell deals Ignite damage multiplied by Combustion stacks. Pets cannot trigger this effect."
+Shrouded Mask,Set Helm,21 - 24,None,Delsere's Magnum Opus,"(2) Set:   Hitting an enemy with Arcane Orb, Energy Twister, Magic Missile, Shock Pulse, Spectral Blade, Electrocute, or Arcane Torrent also casts Slow Time at them. This effect will not trigger if the target is already inside a Slow Time bubble. The cooldown of Teleport will reset while you're inside bubbles generated from this set or cast by you.(4) Set:   You take 75% reduced damage while you have a Slow Time active. Allies inside your Slow Time gain half benefit.(6) Set:   Enemies affected by your Slow Time and for 5 seconds after exiting take 12,500% increased damage from your Arcane Orb, Energy Twister, Magic Missile, Shock Pulse, Spectral Blade, Electrocute, and Arcane Torrent abilities."
+Typhon's Frons,Set Helm,21 - 24,None,The Typhon's Veil,"(2) Set:   Double the duration of Hydras and increase the number of heads on multi-headed Hydras by two.(4) Set:   Damage taken is reduced by 8% for each Hydra head alive. Each time you take damage, a head dies. A head cannot die more than once every 2 seconds.(6) Set:   Hydras deal 2000% increased damage for each Hydra head alive."
+Arachyr's Visage,Set Helm,21 - 24,None,Spirit of Arachyr,"(2) Set:   Summon a permanent Spider Queen connected to you by an infested thread. Enemies caught in the thread are infested. Corpse Spider attacks against infested enemies inflict the same damage to all infested enemies. The Spider Queen is commanded to move to where you cast your Corpse Spiders. Corpse Spiders now spawns with health.(4) Set:   The Spider Queen now leaves behind webs that lasts for 15 seconds and Slows enemies. Infested enemies remain infested while on the web. You take 75% reduced damage while in the web and for 4 seconds after.(6) Set:   The damage of your creature skills is increased by 25,000%. Creature skills are Corpse Spiders, Plague of Toads, Firebats, Locust Swarm, Hex, and Piranhas."
+Helltooth Mask,Set Helm,21 - 24,None,Helltooth Harness,"(2) Set:   Enemies hit by your primary skills, Acid Cloud, Firebats, Zombie Charger, Zombie Dogs, Gargantuan, Grasp of the Dead, Piranhas, or Wall of Death are afflicted by Necrosis, becoming Slowed and taking 3000% weapon damage every second for 10 seconds.(4) Set:   After applying Necrosis to an enemy, you take 60% reduced damage for 10 seconds.(6) Set:   After casting Wall of Death, gain 17,500% increased damage for 15 seconds to your primary skills, Acid Cloud, Firebats, Zombie Charger, Zombie Dogs, Gargantuan, Grasp of the Dead, Piranhas, and Wall of Death."
+Luxurious Bauta,Set Helm,21 - 24,None,Masquerade of the Burning Carnival,"(2) Set:   Simulacrums no longer take damage, gains all runes, and its cooldown is refreshed when you die.(4) Set:   While you have a Simulacrum, damage is reduced by 50%. Damage you take is split with your Simulacrums as well.(6) Set:   Bone Spear cast by you and your Simulacrums deals 6000% increased damage."
+Trag'Oul's Guise,Set Helm,21 - 24,None,Trag'Oul's Avatar,"(2) Set:   Blood Rush and Siphon Blood gain the effect of every rune. Your Life-spending abilities no longer cost Essence.(4) Set:   While at full Life, your healing from skills is added to your maximum Life for 45 seconds, up to 300% more.(6) Set:   Your Life-spending abilities deal 10,000% increased damage and your healing from skills is increased by 100%."
+Inarius's Understanding,Set Helm,21 - 24,None,Grace of Inarius,"(2) Set:   Bone Armor damage is increased by 1000%.(4) Set:   Bone Armor grants an additional 3% damage reduction per enemy hit.(6) Set:   Bone Armor also activates a swirling tornado of bone, damaging nearby enemies for 1000% weapon damage and increasing the damage they take from the Necromancer by 10,000%."
+Pestilence Mask,Set Helm,21 - 24,None,Pestilence Master's Shroud,"(2) Set:   Each corpse you consume fires a Corpse Lance at a nearby enemy.(4) Set:   Each enemy you hit with Bone Spear, Corpse Lance and Corpse Explosion reduces your damage taken by 2%, up to a maximum of 50%.  Lasts 15 seconds.(6) Set:   Each corpse you consume grants you an Empowered Bone Spear charge that increases the damage of your next Bone Spear by 3300%. In addition, Corpse Lance and Corpse Explosion damage is increased by 3300%."
+Rathma's Skull Helm,Set Helm,21 - 24,None,Bones of Rathma,"(2) Set:   Your permanent minions reduce the cooldown of Army of the Dead by 0.50 seconds each time they deal damage. Your skeletal warriors spawn faster, and your revived minions no longer expire.(4) Set:   Your minions no longer take damage. You gain 1% damage reduction for 15 seconds each time one of your minions deal damage. Max 75 stacks.(6) Set:   Each permanent active minion increases the damage of Army of the Dead by 1750%, up to 31,500%."
+Crown of the Primus,Legendary Wizard Hat,30 - 35, Slow Time gains the effect of every rune except Point of No Return and permanently follows you.,None,None
+The Swami,Legendary Wizard Hat,150 - 185, The bonuses from Archon stacks now last for 19 seconds after Archon expires.,None,None
+Dark Mage's Shade,Legendary Wizard Hat,285 - 321, Automatically cast Diamond Skin when you fall below 35% Life. This effect may occur once every 19 seconds.,None,None
+Archmage's Vicalyke,Legendary Wizard Hat,30 - 35, Your Mirror Images have a chance to multiply when killed by enemies.,None,None
+Velvet Camaral,Legendary Wizard Hat,30 - 35, Double the number of enemies your Electrocute jumps to. ,None,None
+The Magistrate,Legendary Wizard Hat,30 - 35, Your Hydras now periodically cast Frost Nova and deal 257% increased damage.,None,None
+Storm Crow,Legendary Wizard Hat,360 - 471, 27% chance to cast a fiery ball when attacking.,None,None
+Salvation,Legendary Crusader Shield,9 - 10, Blocked attacks heal you and your allies for 23% of the amount blocked.,None,None
+Shield of Fury,Legendary Crusader Shield,8 - 9," Each time an enemy takes damage from your Heaven's Fury, it increases the damage they take from your Heaven's Fury by 26%. This effect stacks up to 10 times.",None,None
+The Final Witness,Legendary Crusader Shield,9 - 10, Shield Glare now hits all enemies around you.,None,None
+Hallowed Bulwark,Legendary Crusader Shield,9 - 10, Iron Skin also increases your Block Amount by 52%.,None,None
+Jekangbord,Legendary Crusader Shield,9 - 10, Blessed Shield ricochets to 6 additional enemies and has its damage increased by 379%.,None,None
+Sublime Conviction,Legendary Crusader Shield,9 - 10," When you block, you have up to a 16% chance to Stun the attacker for 1.5 seconds based on your current Wrath.",None,None
+Akarat's Awakening,Legendary Crusader Shield,9 - 10, Every successful block has a 21% chance to reduce all cooldowns by 1 second.,None,None
+Hellskull,Legendary Crusader Shield,9 - 10, Gain 10% increased damage while wielding a two-handed weapon.,None,None
+Piro Marella,Legendary Crusader Shield,1980 - 2277,Reduces the Wrath cost of Shield Bash by [40 - 50]%.,None,None
+Guard of Johanna,Legendary Crusader Shield,9 - 10, Blessed Hammer damage is increased by 204% for the first 3 enemies it hits.,None,None
+Shield of the Steed,Set Crusader Shield,9 - 10,None,Norvald's Fervor,"(2) Set:   Increases the duration of Steed Charge by 2 seconds. In addition, killing an enemy reduces the cooldown of Steed Charge by 1 second.  Gain 200% increased damage while using Steed Charge and for 5 seconds after it ends."
+Frydehr's Wrath,Legendary Crusader Shield,9 - 10," Condemn has no cooldown and has its damage increased by 727%, but instead costs 40 Wrath.",None,None
+Unrelenting Phalanx,Legendary Crusader Shield,9 - 10, Phalanx now casts twice.,None,None
+Ashnagarr's Blood Bracer,Legendary Bracers,16 - 19, Increases the potency of your shields by 85%.,None,None
+Gungdo Gear,Legendary Bracers,41 - 49, Exploding Palm's on-death explosion applies Exploding Palm. Exploding Palm's damage is increased by 85%.,None,None
+Cesar's Memento,Legendary Bracers,8 - 9," Enemies take 667% increased damage from your Tempest Rush for 5 seconds after you hit them with a Blind, Freeze, or Stun.",None,None
+Sanguinary Vambraces,Legendary Bracers,8 - 9, Chance on being hit to deal 1000% of your Thorns damage to nearby enemies.,None,None
+Pinto's Pride,Legendary Bracers,8 - 9, Wave of Light also Slows enemies by 80% for 3 seconds and deals 135% increased damage.,None,None
+Bindings of the Lesser Gods,Legendary Bracers,8 - 9, Enemies hit by your Cyclone Strike take 157% increased damage from your Mystic Ally for 5 seconds. Split Fire Allies gain 3 times this bonus.,None,None
+Akkhan's Manacles,Legendary Bracers,8 - 9, Blessed Shield damage is increased by 442% for the first enemy it hits.,None,None
+Mortick's Brace,Legendary Bracers,63 - 75, Wrath of the Berserker gains the effect of every rune.,None,None
+Vambraces of Sescheron,Legendary Bracers,8 - 9, Your primary skills heal you for 5.5% of your missing Life.,None,None
+Bracer of Fury,Legendary Bracers,8 - 9," Heaven's Fury deals 342% increased damage to enemies that are Blinded, Immobilized, or Stunned.",None,None
+Warzechian Armguards,Legendary Bracers,8 - 9," Every time you destroy a wreckable object, you gain a short burst of speed.",None,None
+Nemesis Bracers,Legendary Bracers,8 - 9, Shrines and Pylons will spawn an enemy champion. (Emanates),None,None
+Custerian Wristguards,Legendary Bracers,8 - 9, Picking up gold grants experience. (Emanates),None,None
+Ancient Parthan Defenders,Legendary Bracers,8 - 9, Each stunned enemy within 25 yards reduces your damage taken by 9%.,None,None
+Aughild's Ultimatum,Set Bracers,90 - 102,None,Aughild's Victory,(2) Set:   Reduces damage from melee attacks by 2.0%(3) Set:   Reduces damage from ranged attacks by 2.0%.
+Promise of Glory,Legendary Bracers,158 - 178, 5% chance to spawn a Nephalem Glory globe when you Blind an enemy.,None,None
+Guardian's Deflector,Set Bracers,137 - 149,None,Guardian's Contingency,(2) Set:   +110 Vitality  Regenerates 130 Life per Second
+Strongarm Bracers,Legendary Bracers,200 - 219, Enemies hit by knockbacks suffer 25% increased damage for 6 seconds.,None,None
+Demon's Revenge,Set Bracers,220 - 261,None,Demon's Skin,(2) Set:   +999 Fire Thorns Damage(3) Set:   1.1% Chance to Fear on Hit(4) Set:   +3% Damage to Demons  Chance to reflect projectiles when you are hit by enemies.
+Coils of the First Spider,Legendary Bracers,8 - 9," While channeling Firebats, you gain 30% damage reduction and 71,752 Life per Hit.",None,None
+Wraps of Clarity,Legendary Bracers,8 - 9, Your Hatred Generators reduce your damage taken by 45% for 5 seconds.,None,None
+Jeram's Bracers,Legendary Bracers,8 - 9, Wall of Death deals 85% increased damage and can be cast up to three times within 2 seconds before the cooldown begins.,None,None
+Bracers of the First Men,Legendary Bracers,8 - 9, Hammer of the Ancients attacks 50% faster and deals 445% increased damage.,None,None
+Ranslor's Folly,Legendary Bracers,8 - 9, The damage of Energy Twister is increased by 249% and it periodically pulls in lesser enemies within 30 yards.,None,None
+Lakumba's Ornament,Legendary Bracers,8 - 9," Reduce all damage taken by 60% if your Soul Harvest stack is at least 2, and an additional 2% for each stack of Soul Harvest.",None,None
+Bracers of Destruction,Legendary Bracers,8 - 9, Seismic Slam deals 442% increased damage to the first 10 enemies it hits.,None,None
+Skular's Salvation,Legendary Bracers,8 - 9," Increase the damage of Ancient Spear by 157%. If your Ancient Spear - Boulder Toss hits 5 or fewer enemies, the damage is increased by 100%.",None,None
+Gabriel's Vambraces,Legendary Bracers,8 - 9," When your Blessed Hammer hits 3 or fewer enemies, 85% of its Wrath Cost is refunded.",None,None
+Trag'Oul Coils,Legendary Bracers,8 - 9, Spike Traps gain the Impaling Spines rune and are deployed twice as fast.,None,None
+Drakon's Lesson,Legendary Bracers,8 - 9," When your Shield Bash hits 3 or fewer enemies, its damage is increased by 342% and 25% of its Wrath Cost is refunded.",None,None
+Aughild's Search,Set Bracers,366 - 421,None,Aughild's Authority,(2) Set:   Reduces damage taken by 15%.  Increases damage dealt by 30%.(3) Set:   Reduces damage from elites by 30.0%  Increases damage against elites by 30.0%
+Shackles of the Invoker,Set Bracers,8 - 9,None,Thorns of the Invoker,"(2) Set:   Your Thorns damage now hits all enemies in a 15 yard radius around you. Each time you hit an enemy with Punish, Slash, or block an attack your Thorns is increased by 90% for 2 seconds. This effect stacks up to 10 times. (4) Set:   You take 50% less damage for 20 seconds after damaging an enemy with Bombardment.(6) Set:   The attack speed of Punish and Slash are increased by 100% and deal 67,500% of your Thorns damage."
+Guardian's Aversion,Set Bracers,366 - 421,None,Guardian's Jeopardy,"(2) Set:   Your melee damage reduction is increased by 1% per 1000 base Vitality from equipped items.  Your missile damage reduction is increased by 1% per 1000 base Strength, Dexterity, or Intelligence from equipped items depending on your class.(3) Set:   You gain an additional 100% of your base Strength, Dexterity, Intelligence, and Vitality attributes from equipped items."
+Krelm's Buff Bracers,Set Bracers,8 - 9,None,Krelm�s Buff Bulwark,(2) Set:   +500 Vitality
+Reaper's Wraps,Legendary Bracers,366 - 421,Health globes restore [25 - 30]% of your primary resource. This effect cannot occur more than once every 2 seconds.,None,None
+Demon's Animus,Set Bracers,366 - 421,None,Demon's Hide,(2) Set:   +6000 Fire Thorns Damage(3) Set:   Chance to Deal 25% Area Damage on Hit.(4) Set:   +15% Damage to Demons  Chance to reflect projectiles when you are hit by enemies.
+Gelmindor's Marrow Guards,Legendary Bracers,8 - 9, Bone Spears cast from Simulacrums deal 342% increased damage.,None,None
+Bonds of C'Lena,Legendary Bracers,8 - 9, Army of the Dead deals 85% increased damage or double this bonus against an active target of Command Skeletons.,None,None
+Spirit Guards,Legendary Bracers,8 - 9, Your Spirit Generators reduce your damage taken by 49% for 3 seconds.,None,None
+Homing Pads,Legendary Shoulders,144 - 164, Your Town Portal is no longer interrupted by taking damage. While casting Town Portal you gain a protective bubble that reduces damage taken by 54%. (Emanates),None,None
+Pauldrons of the Skeleton King,Legendary Shoulders,58 - 68," When receiving fatal damage, there is a chance that you are instead restored to 25% of maximum Life and cause nearby enemies to flee in fear.",None,None
+Razeth's Volition,Legendary Shoulders,58 - 68, Skeletal Mage gains the effect of the Gift of Death and Singularity runes. You gain 39% damage reduction if your Essence is not full.,None,None
+Born's Impunity,Set Shoulders,58 - 68,None,Born's Defiance,(2) Set:   +2% Life  +20% Experience. (2.0% at level 70)
+Death Watch Mantle,Legendary Shoulders,240 - 252, 30% chance to explode in a fan of knives for 750-950% weapon damage when hit.,None,None
+Corpsewhisper Pauldrons,Legendary Shoulders,58 - 68, Corpse Lance damage is increased by 29% for 3 seconds when you consume a corpse. Max 20 stacks.,None,None
+Lefebvre's Soliloquy,Legendary Shoulders,58 - 68, Cyclone Strike reduces your damage taken by 45% for 5 seconds.,None,None
+Mantle of Channeling,Legendary Shoulders,58 - 68," While channeling Siphon Blood, Whirlwind, Rapid Fire, Strafe, Tempest Rush, Firebats, Arcane Torrent, Disintegrate, or Ray of Frost, you deal 24% increased damage and take 25% reduced damage.",None,None
+Spaulders of Zakara,Legendary Shoulders,58 - 68, Your items become indestructible. (Emanates),None,None
+Fury of the Ancients,Legendary Shoulders,58 - 68," Call of the Ancients gains the effect of the Ancients' Fury rune, and your Ancients attack 100% faster.",None,None
+Aughild's Reign,Set Shoulders,144 - 164,None,Aughild's Victory,(2) Set:   Reduces damage from melee attacks by 2.0%(3) Set:   Reduces damage from ranged attacks by 2.0%.
+Asheara's Guard,Set Shoulders,193 - 219,None,Asheara's Uniform,(2) Set:   +30 Resistance to All Elements(3) Set:   2.50% of Damage Dealt Is Converted to Life  +300 Holy Thorns Damage
+Vile Ward,Legendary Shoulders,353 - 419, Furious Charge deals 34% increased damage for every enemy hit while charging.,None,None
+Demon's Flight,Set Shoulders,353 - 419,None,Demon's Skin,(2) Set:   +999 Fire Thorns Damage(3) Set:   1.1% Chance to Fear on Hit(4) Set:   +3% Damage to Demons  Chance to reflect projectiles when you are hit by enemies.
+Burden of the Invoker,Set Shoulders,58 - 68,None,Thorns of the Invoker,"(2) Set:   Your Thorns damage now hits all enemies in a 15 yard radius around you. Each time you hit an enemy with Punish, Slash, or block an attack your Thorns is increased by 90% for 2 seconds. This effect stacks up to 10 times. (4) Set:   You take 50% less damage for 20 seconds after damaging an enemy with Bombardment.(6) Set:   The attack speed of Punish and Slash are increased by 100% and deal 67,500% of your Thorns damage."
+Spires of the Earth,Set Shoulders,58 - 68,None,Might of the Earth,"(2) Set:   Reduce the cooldown of Earthquake, Avalanche, Leap, and Ground Stomp by 1 second for every 30 Fury you spend with an attack.(4) Set:   Leap causes an Earthquake when you land. Additionally, Leap gains the effect of the Iron Impact rune and the rune's effect and duration are increased by 150%.(6) Set:   Increase the damage of Earthquake, Avalanche, Leap, Ground Stomp, Ancient Spear and Seismic Slam by 20,000%."
+Demon's Aileron,Set Shoulders,586 - 674,None,Demon's Hide,(2) Set:   +6000 Fire Thorns Damage(3) Set:   Chance to Deal 25% Area Damage on Hit.(4) Set:   +15% Damage to Demons  Chance to reflect projectiles when you are hit by enemies.
+Aughild's Power,Set Shoulders,586 - 674,None,Aughild's Authority,(2) Set:   Reduces damage taken by 15%.  Increases damage dealt by 30%.(3) Set:   Reduces damage from elites by 30.0%  Increases damage against elites by 30.0%
+Sunwuko's Balance,Set Shoulders,58 - 68,None,Monkey King's Garb,"(2) Set:   Your damage taken is reduced by 50% while Sweeping Wind is active.(4) Set:   Every second Sweeping Wind spawns a decoy next to the last enemy you hit that taunts nearby enemies and then explodes for 1000% weapon damage for each stack of Sweeping Wind you have.(6) Set:   Lashing Tail Kick, Tempest Rush, and Wave of Light have their damage increased by 1500% for each stack of Sweeping Wind you have."
+Jade Harvester's Joy,Set Shoulders,58 - 68,None,Raiment of the Jade Harvester,"(2) Set:   When Haunt lands on an enemy already affected by Haunt, it instantly deals 3500 seconds worth of Haunt damage.(4) Set:   Soul Harvest gains the effect of every rune and has its cooldown reduced by 1 second every time you cast Haunt or Locust Swarm.(6) Set:   Soul Harvest reduces damage taken by 50% for 12 seconds and consumes your damage over time effects on enemies, instantly dealing 10,000 seconds worth of remaining damage."
+Born's Privilege,Set Shoulders,586 - 674,None,Born's Command,(2) Set:   +15% Life(3) Set:   Reduces cooldown of all skills by 10.0%.  +20% Experience. (2.0% at level 70)
+Asheara's Custodian,Set Shoulders,586 - 674,None,Asheara's Vestments,(2) Set:   +100 Resistance to All Elements(3) Set:   +20% Life(4) Set:   Attacks cause your followers to occasionally come to your aid.
+Vyr's Proud Pauldrons,Set Shoulders,58 - 68,None,Vyr's Amazing Arcana,"(2) Set:   Archon gains the effect of every rune.(4) Set:   Archon stacks also increase your Attack Speed, Armor, and Resistances by 1%.(6) Set:   You gain 1 Archon stack when you hit with an Archon ability and Archon stacks also reduce damage taken by 0.15% and have their damage bonus increased to 100%."
+The Shadow's Burden,Set Shoulders,58 - 68,None,The Shadow�s Mantle,"(2) Set:   While equipped with a melee weapon, your damage is increased by 6000%.(4) Set:   Shadow Power gains the effect of every rune and lasts forever.(6) Set:   Impale deals an additional 75,000% weapon damage to the first enemy hit, and 25,000% to subsequent enemies."
+Spines of Savages,Set Shoulders,58 - 68,None,Horde of the Ninety Savages,"(2) Set:   Double the effectiveness of shouts. You deal double damage to Feared, Frozen, or Stunned enemies.(4) Set:   Each Frenzy stack reduces damage taken by 6%. Frenzy lasts twice as long.(6) Set:   Frenzy deals 1000% increased damage per stack."
+Raekor's Burden,Set Shoulders,58 - 68,None,The Legacy of Raekor,"(2) Set:   Furious Charge refunds a charge if it hits only 1 enemy.(4) Set:   Furious Charge gains the effect of every rune and deals 1000% increased damage. For every 1% Life you are missing, the damage of your Ancient Spear is increased by 2%.(6) Set:   Hitting enemies with Furious Charge or Weapon Throw increases the damage of your next Ancient Spear by 5500% and causes it to release multiple spears from its target. This effect stacks and each spear throw consumes a maximum of 5 stacks."
+Pauldrons of the Wastes,Set Shoulders,58 - 68,None,Wrath of the Wastes,"(2) Set:   Increase the damage per second of Rend by 500% and its duration to 15 seconds.(4) Set:   During Whirlwind and for 3 seconds after, you gain 50% damage reduction and your applied Rends deal triple damage.(6) Set:   Whirlwind gains the effect of the Dust Devils rune and all Whirlwind and Rend damage is increased by 10,000%."
+Spaulders of Valor,Set Shoulders,58 - 68,None,Aegis of Valor,"(2) Set:   Attacking with Fists of the Heavens empowers you, allowing Heaven's Fury to deal 125% increased damage for 5 seconds. Stacks up to 3 times.(4) Set:   Hitting with Fist of the Heavens returns 5 Wrath and reduces damage taken by 1% for 10 seconds. Stacks up to 50 times.(6) Set:   Increase the damage of Fist of the Heavens and Heaven's Fury by 20,000%."
+Roland's Mantle,Set Shoulders,58 - 68,None,Roland's Legacy,"(2) Set:   Every use of Shield Bash and Sweep Attack reduces the cooldowns of your Laws and Defensive Skills by 1 second.(4) Set:   Increase the damage of Shield Bash and Sweep Attack by 17,500%.(6) Set:   Every use of Shield Bash or Sweep Attack that hits an enemy grants 75% increased Attack Speed and 15% damage reduction for 8 seconds. This effect stacks up to 5 times."
+Mountain of the Light,Set Shoulders,58 - 68,None,Seeker of the Light,"(2) Set:   Every use of Blessed Hammer that hits an enemy reduces the cooldown of Falling Sword and Provoke by 1 second.(4) Set:   You take 50% less damage for 8 seconds after landing with Falling Sword.(6) Set:   Increase the damage of Blessed Hammer by 15,000% and Falling Sword by 1000%."
+Pauldrons of Akkhan,Set Shoulders,58 - 68,None,Armor of Akkhan,"(2) Set:   Judgment has no cooldown and gains the effect of every rune.(4) Set:   Attacks from Phalanx Avatars reduce the cooldown of Akarat's Champion by 0.5 seconds, and also apply Condemn when attacking enemies that are affected by Judgment.(6) Set:   While Akarat's Champion is active, you deal 1500% increased damage and take 50% less damage."
+Unsanctified Shoulders,Set Shoulders,58 - 68,None,Unhallowed Essence,"(2) Set:   Your generators generate 2 additional Hatred and 1 Discipline.(4) Set:   Gain 60% damage reduction and deal 60% increased damage for 8 seconds if no enemy is within 10 yards of you.(6) Set:   Your generators, Multishot, and Vengeance deal 350% increased damage for every point of Discipline you have."
+Marauder's Spines,Set Shoulders,58 - 68,None,Embodiment of the Marauder,"(2) Set:   Companion calls all companions to your side.(4) Set:   Sentries cast Elemental Arrow, Chakram, Impale, Multishot, and Cluster Arrow when you do, as well as automatically cast your equipped Hatred spenders.(6) Set:   Your primary skills, Elemental Arrow, Chakram, Impale, Multishot, Cluster Arrow, Companions, Vengeance, and Sentries deal 12,000% increased damage for every active Sentry."
+Mechanical Pauldrons,Set Shoulders,58 - 68,None,Gears of Dreadlands,"(2) Set:   Gain 4 seconds of Momentum when attacking with a Primary skill, at a maximum duration of 20 seconds. Your Primary skills deal 10% increased damage per second of Momentum.(4) Set:   Strafing against enemies will automatically shoot your last used primary skill, and also give 60% damage reduction while strafing and for 5 seconds after. While Strafing, you gain 8% increased movement speed for each second of Momentum.(6) Set:   Your primary skills deal 15,000% increased damage."
+Mantle of the Upside-Down Sinners,Set Shoulders,58 - 68,None,Raiment of a Thousand Storms,"(2) Set:   Your Spirit Generators have 25% increased attack speed and 400% increased damage.(4) Set:   Dashing Strike spends 75 Spirit, but refunds a Charge when it does.(6) Set:   Your Spirit Generators increase the weapon damage of Dashing Strike to 60,000% for 6 seconds and Dashing Strike increases the damage of your Spirit Generators by 6000% for 6 seconds."
+Uliana's Strength,Set Shoulders,58 - 68,None,Uliana's Stratagem,(2) Set:   Every third hit of your Spirit Generators applies Exploding Palm.(4) Set:   Your Seven-Sided Strike deals 777% its total damage with each hit. All damage taken is reduced by 77% for 7 seconds after applying Exploding Palm to an enemy.(6) Set:   Increase the damage of your Exploding Palm by 9000% and your Seven-Sided Strike detonates your Exploding Palm.
+Mirrors of Justice,Set Shoulders,58 - 68,None,Patterns of Justice,"(2) Set:   Sweeping Wind gains the effect of every rune, and movement speed is increased by 5% for each stack of Sweeping Wind.(4) Set:   Attacking with Tempest Rush reduces your damage taken by 50% and increases Spirit Regeneration by 50.(6) Set:   Hitting with Tempest Rush while Sweeping Wind is active increases the size of Sweeping Wind and also increases all damage dealt by 15,000%."
+Firebird's Pinions,Set Shoulders,58 - 68,None,Firebird's Finery,"(2) Set:   Disintegrate Ignites enemies, causing them to take 3000% weapon damage per second until they die. When you die, a meteor falls from the sky and revives you. This effect has a 60 second cooldown.(4) Set:   Casting Disintegrate adds Combustion stacks that reduce the cooldown of Teleport by 2% per stack. Stacks up to 50 times. You gain 80% damage reduction while maintaining Combustion stacks. (6) Set:   You gain 5000% increased damage while Ignite is applied to a target. Hitting an Ignited enemy with a non-channeling fire spell deals Ignite damage multiplied by Combustion stacks. Pets cannot trigger this effect."
+Typhon's Tibia,Set Shoulders,58 - 68,None,The Typhon's Veil,"(2) Set:   Double the duration of Hydras and increase the number of heads on multi-headed Hydras by two.(4) Set:   Damage taken is reduced by 8% for each Hydra head alive. Each time you take damage, a head dies. A head cannot die more than once every 2 seconds.(6) Set:   Hydras deal 2000% increased damage for each Hydra head alive."
+Dashing Pauldrons of Despair,Set Shoulders,58 - 68,None,Delsere's Magnum Opus,"(2) Set:   Hitting an enemy with Arcane Orb, Energy Twister, Magic Missile, Shock Pulse, Spectral Blade, Electrocute, or Arcane Torrent also casts Slow Time at them. This effect will not trigger if the target is already inside a Slow Time bubble. The cooldown of Teleport will reset while you're inside bubbles generated from this set or cast by you.(4) Set:   You take 75% reduced damage while you have a Slow Time active. Allies inside your Slow Time gain half benefit.(6) Set:   Enemies affected by your Slow Time and for 5 seconds after exiting take 12,500% increased damage from your Arcane Orb, Energy Twister, Magic Missile, Shock Pulse, Spectral Blade, Electrocute, and Arcane Torrent abilities."
+Mundunugu's Descendant,Set Shoulders,58 - 68,None,Mundunugu's Regalia,"(2) Set:   Big Bad Voodoo now follows you and lasts twice as long.(4) Set:   Gain 60% damage reduction for 30 seconds when you enter the spirit realm.(6) Set:   Spirit Barrage deals 20,000% increased damage plus an additional % equal to 5 times your Mana Regeneration/Second."
+Helltooth Mantle,Set Shoulders,58 - 68,None,Helltooth Harness,"(2) Set:   Enemies hit by your primary skills, Acid Cloud, Firebats, Zombie Charger, Zombie Dogs, Gargantuan, Grasp of the Dead, Piranhas, or Wall of Death are afflicted by Necrosis, becoming Slowed and taking 3000% weapon damage every second for 10 seconds.(4) Set:   After applying Necrosis to an enemy, you take 60% reduced damage for 10 seconds.(6) Set:   After casting Wall of Death, gain 17,500% increased damage for 15 seconds to your primary skills, Acid Cloud, Firebats, Zombie Charger, Zombie Dogs, Gargantuan, Grasp of the Dead, Piranhas, and Wall of Death."
+Arachyr's Mantle,Set Shoulders,58 - 68,None,Spirit of Arachyr,"(2) Set:   Summon a permanent Spider Queen connected to you by an infested thread. Enemies caught in the thread are infested. Corpse Spider attacks against infested enemies inflict the same damage to all infested enemies. The Spider Queen is commanded to move to where you cast your Corpse Spiders. Corpse Spiders now spawns with health.(4) Set:   The Spider Queen now leaves behind webs that lasts for 15 seconds and Slows enemies. Infested enemies remain infested while on the web. You take 75% reduced damage while in the web and for 4 seconds after.(6) Set:   The damage of your creature skills is increased by 25,000%. Creature skills are Corpse Spiders, Plague of Toads, Firebats, Locust Swarm, Hex, and Piranhas."
+Pestilence Defense,Set Shoulders,58 - 68,None,Pestilence Master's Shroud,"(2) Set:   Each corpse you consume fires a Corpse Lance at a nearby enemy.(4) Set:   Each enemy you hit with Bone Spear, Corpse Lance and Corpse Explosion reduces your damage taken by 2%, up to a maximum of 50%.  Lasts 15 seconds.(6) Set:   Each corpse you consume grants you an Empowered Bone Spear charge that increases the damage of your next Bone Spear by 3300%. In addition, Corpse Lance and Corpse Explosion damage is increased by 3300%."
+Glamorous Gigot,Set Shoulders,58 - 68,None,Masquerade of the Burning Carnival,"(2) Set:   Simulacrums no longer take damage, gains all runes, and its cooldown is refreshed when you die.(4) Set:   While you have a Simulacrum, damage is reduced by 50%. Damage you take is split with your Simulacrums as well.(6) Set:   Bone Spear cast by you and your Simulacrums deals 6000% increased damage."
+Rathma's Spikes,Set Shoulders,58 - 68,None,Bones of Rathma,"(2) Set:   Your permanent minions reduce the cooldown of Army of the Dead by 0.50 seconds each time they deal damage. Your skeletal warriors spawn faster, and your revived minions no longer expire.(4) Set:   Your minions no longer take damage. You gain 1% damage reduction for 15 seconds each time one of your minions deal damage. Max 75 stacks.(6) Set:   Each permanent active minion increases the damage of Army of the Dead by 1750%, up to 31,500%."
+Trag'Oul's Heart,Set Shoulders,58 - 68,None,Trag'Oul's Avatar,"(2) Set:   Blood Rush and Siphon Blood gain the effect of every rune. Your Life-spending abilities no longer cost Essence.(4) Set:   While at full Life, your healing from skills is added to your maximum Life for 45 seconds, up to 300% more.(6) Set:   Your Life-spending abilities deal 10,000% increased damage and your healing from skills is increased by 100%."
+Inarius's Martyrdom,Set Shoulders,58 - 68,None,Grace of Inarius,"(2) Set:   Bone Armor damage is increased by 1000%.(4) Set:   Bone Armor grants an additional 3% damage reduction per enemy hit.(6) Set:   Bone Armor also activates a swirling tornado of bone, damaging nearby enemies for 1000% weapon damage and increasing the damage they take from the Necromancer by 10,000%."
+Saffron Wrap,Legendary Belt,108 - 127, The damage of your next Overpower is increased by 45% for each enemy hit. Max 20 enemies.,None,None
+Goldwrap,Legendary Belt,88 - 107, On gold pickup: Gain armor for 5 seconds equal to the amount picked up.,None,None
+Hellcat Waistguard,Legendary Belt,265 - 314, Grenades have a chance to bounce 4 times dealing an additional 50% damage on each bounce. This bonus is increased to 800% on the final bounce.,None,None
+Insatiable Belt,Legendary Belt,6," Picking up a Health Globe increases your maximum Life by 5% for 15 seconds, stacking up to 5 times.",None,None
+Binding of the Lost,Legendary Belt,6, Each hit with Seven-Sided Strike grants 4.0% damage reduction for 7 seconds.,None,None
+The Shame of Delsere,Legendary Belt,6, Your Signature Spells attack 50% faster and restore 9 Arcane Power.,None,None
+Dayntee's Binding,Legendary Belt,6, You gain an additional 45% damage reduction when there is an enemy afflicted by any of your curses.,None,None
+Kyoshiro's Soul,Legendary Belt,6, Sweeping Wind gains 2 stacks every second it does not deal damage to any enemies.,None,None
+Sacred Harness,Legendary Belt,6, Judgment gains the effect of the Debilitate rune and is cast at your landing location when casting Falling Sword.,None,None
+String of Ears,Legendary Belt,145 - 164, Reduces damage from melee attacks by 29%.,None,None
+Bakuli Jungle Wraps,Legendary Belt,112 - 132, Firebats deals 257% increased damage to enemies affected by Locust Swarm or Piranhas.,None,None
+Captain Crimson's Satin Sash,Set Belt,68 - 87,None,Captain Crimson's Finery,(2) Set:   Regenerates 20 Life per Second(3) Set:   +20 Resistance to All Elements
+Fazula's Improbable Chain,Legendary Belt,6, You automatically start with 45 Archon stacks when entering Archon form.,None,None
+Hergbrash's Binding,Legendary Belt,6," Reduces the Arcane Power cost of Arcane Torrent, Disintegrate, and Ray of Frost by 54%.",None,None
+Sebor's Nightmare,Legendary Belt,6, Haunt is cast on all nearby enemies when you open a chest.,None,None
+Sash of Knives,Legendary Belt,6," With every attack, you throw a dagger at a nearby enemy for 622% weapon damage as Physical.",None,None
+Omnislash,Legendary Belt,6, Slash attacks in all directions.,None,None
+Haunting Girdle,Legendary Belt,6, Haunt releases 1 extra spirit.,None,None
+Sebor's Nightmare,Legendary Belt,6, Haunt is cast on 5 nearby enemies when you open a chest.,None,None
+Hwoj Wrap,Legendary Belt,6, Locust Swarm also Slows enemies by 60%.,None,None
+Omryn's Chain,Legendary Belt,6, Drop Caltrops when using Vault.,None,None
+Cord of the Sherma,Legendary Belt,6, Chance on hit to create a chaos field that Blinds and Slows enemies inside for 3 seconds.,None,None
+Harrington Waistguard,Legendary Belt,6, Opening a chest grants 116% increased damage for 10 seconds.,None,None
+Crashing Rain,Legendary Belt,6, Rain of Vengeance also summons a crashing beast that deals 3049% weapon damage.,None,None
+Chain of Shadows,Legendary Belt,6," After using Impale, Vault costs no resource for 2 seconds.",None,None
+Cord of the Sherma,Legendary Belt,6, Chance on hit to create a chaos field that Blinds and Slows enemies inside for 3 seconds.,None,None
+Blessed of Haull,Legendary Belt,6, Justice spawns a Blessed Hammer when it hits an enemy.,None,None
+Belt of Transcendence,Legendary Belt,6, Summon a Fetish Sycophant when you hit with a Mana spender.,None,None
+Brood of Araneae,Legendary Belt,6," Corpse Spiders deals an additional 85% damage, and each spider bite causes the target to take an additional 1% damage from Corpse Spiders for 5 seconds.",None,None
+Razor Strop,Legendary Belt,6, Picking up a Health Globe releases an explosion that deals 342% weapon damage as Fire to enemies within 20 yards.,None,None
+Thundergod's Vigor,Legendary Belt,226 - 252," Blocking, dodging or being hit causes you to discharge bolts of electricity that deal 129% weapon damage as Lightning.",None,None
+Angel Hair Braid,Legendary Belt,165 - 179, Punish gains the effect of every rune.,None,None
+Guardian's Sheath,Set Belt,165 - 179,None,Guardian's Contingency,(2) Set:   +110 Vitality  Regenerates 130 Life per Second
+Inna's Favor,Set Belt,265 - 314,None,Inna's Mantra,"(2) Set:   Increase the passive effect of your Mystic Ally and the base passive effect of your Mantra by 100%.(4) Set:   Gain the base effect of all four Mantras at all times. You gain 5% damage reduction for each Mystic Ally you have out. Your Mystic Allies no longer take damage.(6) Set:   Gain the passive abilities of the five runed Mystic Allies at all times. Attacking enemies creates your chosen Mystic Ally that lasts 15 seconds, up to 10 Mystic Allies. The damage of your Mystic Allies is increased by 900% for each Mystic Ally you have out."
+Belt of the Trove,Legendary Belt,286 - 319," Every 4 seconds, call down Bombardment on a random nearby enemy. Bombardment deals 442% increased damage.",None,None
+Tal Rasha's Brace,Set Belt,265 - 314,None,Tal Rasha's Elements,"(2) Set:   Damaging enemies with Arcane, Cold, Fire or Lightning will grant immunity to that element and cause a Meteor of the same damage type to fall from the sky. This only occurs if the Wizard has Meteor on their action bar, and the same meteor cannot happen twice in a row.(4) Set:   Arcane, Cold, Fire, and Lightning attacks each increase all of your resistances by 100% for 8 seconds. Attacking with Meteor reduces the cooldown of Teleport by 1 second.(6) Set:   Attacks increase your damage by 2000% for 8 seconds. Arcane, Cold, Fire, and Lightning attacks each add one stack. At 4 stacks, each different elemental attack extends the duration by 2 seconds, up to a maximum of 8 seconds."
+Demon's Lock,Set Belt,265 - 314,None,Demon's Skin,(2) Set:   +999 Fire Thorns Damage(3) Set:   1.1% Chance to Fear on Hit(4) Set:   +3% Damage to Demons  Chance to reflect projectiles when you are hit by enemies.
+Blackthorne's Notched Belt,Set Belt,265 - 314,None,Blackthorne's Battlegear,"(2) Set:   +250 Vitality  Increases damage against elites by 10.0%(3) Set:   Reduces damage from elites by 10.0%  +25% Extra Gold from Monsters(4) Set:   You are immune to Desecrator, Molten, and Plagued monster ground effects."
+Jang's Envelopment,Legendary Belt,6, Enemies damaged by Black Hole are also slowed by 60% for 3 seconds.,None,None
+Sage's Ribbon,Set Belt,440 - 506,None,Sage's Journey,(2) Set:   +250 Strength  +250 Dexterity  +250 Intelligence  +250 Vitality(3) Set:   Double the amount of Death's Breath that drop. (Emanates)(Emanates)
+Demon's Restraint,Set Belt,440 - 506,None,Demon's Hide,(2) Set:   +6000 Fire Thorns Damage(3) Set:   Chance to Deal 25% Area Damage on Hit.(4) Set:   +15% Damage to Demons  Chance to reflect projectiles when you are hit by enemies.
+Guardian's Case,Set Belt,440 - 506,None,Guardian's Jeopardy,"(2) Set:   Your melee damage reduction is increased by 1% per 1000 base Vitality from equipped items.  Your missile damage reduction is increased by 1% per 1000 base Strength, Dexterity, or Intelligence from equipped items depending on your class.(3) Set:   You gain an additional 100% of your base Strength, Dexterity, Intelligence, and Vitality attributes from equipped items."
+Khassett's Cord of Righteousness,Legendary Belt,6, Fist of the Heavens costs 40% less Wrath and deals 163% more damage.,None,None
+Zoey's Secret,Legendary Belt,6, You take 8.5% less damage for every Companion you have active.,None,None
+Hunter's Wrath,Legendary Belt,165 - 179, Your primary skills attack 30% faster and deal 157% increased damage.,None,None
+Krelm's Buff Belt,Set Belt,6,None,Krelm�s Buff Bulwark,(2) Set:   +500 Vitality
+Captain Crimson's Silk Girdle,Set Belt,440 - 506,None,Captain Crimson's Trimmings,(2) Set:   Regenerates 6000 Life per Second  Reduces cooldown of all skills by 20.0%.  Reduces all resource costs by 20.0%.(3) Set:   Damage dealt is increased by your percentage of cooldown reduction.  Damage taken is reduced by your percentage of cost reduction.
+Cloak of Deception,Legendary Cloak,30 - 35, Enemy missiles sometimes pass through you harmlessly.,None,None
+Beckon Sail,Legendary Cloak,217 - 254," When receiving fatal damage, you instead automatically cast Smoke Screen and are healed to 25% Life. This effect may occur once every 120 seconds.",None,None
+Blackfeather,Legendary Cloak,30 - 35, Dodging or getting hit by a ranged attack automatically shoots a homing rocket back at the attacker for 667% weapon damage as Physical.,None,None
+Natalya's Embrace,Set Cloak,360 - 471,None,Natalya's Vengeance,"(2) Set:   Reduce the cooldown of Rain of Vengeance by 4 seconds when you hit with a Hatred-generating attack or Hatred-spending attack.(4) Set:   Rain of Vengeance deals 100% increased damage.(6) Set:   After casting Rain of Vengeance, deal 14,000% increased damage and take 60% reduced damage for 10 seconds."
+The Cloak of the Garwulf,Legendary Cloak,360 - 471, Companion - Wolf Companion now summons 3 wolves.,None,None
+Cape of the Dark Night,Legendary Cloak,660 - 759, Automatically drop Caltrops when you are hit. This effect may only occur once every 6 seconds.,None,None
+Galvanized Vest,Set Cloak,51 - 68,None,Gears of Dreadlands,"(2) Set:   Gain 4 seconds of Momentum when attacking with a Primary skill, at a maximum duration of 20 seconds. Your Primary skills deal 10% increased damage per second of Momentum.(4) Set:   Strafing against enemies will automatically shoot your last used primary skill, and also give 60% damage reduction while strafing and for 5 seconds after. While Strafing, you gain 8% increased movement speed for each second of Momentum.(6) Set:   Your primary skills deal 15,000% increased damage."
+Cage of the Hellborn,Set Cloak,51 - 68,None,Unhallowed Essence,"(2) Set:   Your generators generate 2 additional Hatred and 1 Discipline.(4) Set:   Gain 60% damage reduction and deal 60% increased damage for 8 seconds if no enemy is within 10 yards of you.(6) Set:   Your generators, Multishot, and Vengeance deal 350% increased damage for every point of Discipline you have."
+Winter Flurry,Legendary Source,None, Enemies killed by Cold damage have a 25% chance to release a Frost Nova. Your Hydras deals 135% increased damage to enemies in a Blizzard.,None,None
+Etched Sigil,Legendary Source,None," While channeling Arcane Torrent, Disintegrate, or Ray of Frost, the damage of your Energy Twister is increased by 220%, and you also cast Energy Twister every second.",None,None
+Mirrorball,Legendary Source,None, Magic Missile fires 2 extra missiles and deals 475% increased damage.,None,None
+Light of Grace,Legendary Source,None, Ray of Frost now pierces.,None,None
+Myken's Ball of Hate,Legendary Source,None, Electrocute can chain to enemies that have already been hit.,None,None
+Triumvirate,Legendary Source,None," Your Signature Spells increase the damage of Arcane Orb by 375% for 6 seconds, stacking up to 3 times.",None,None
+Chantodo's Force,Set Source,None,None,Chantodo's Resolve,"(2) Set:   Every second while in Archon form you expel a Wave of Destruction, dealing 4000% weapon damage to enemies within 30 yards. This damage scales with attack speed.  Every time you hit with an attack while not in Archon form, 4000% weapon damage is added to the Wave of Destruction, stacking up to 20 times."
+Tal Rasha's Unwavering Glare,Set Source,None,None,Tal Rasha's Elements,"(2) Set:   Damaging enemies with Arcane, Cold, Fire or Lightning will grant immunity to that element and cause a Meteor of the same damage type to fall from the sky. This only occurs if the Wizard has Meteor on their action bar, and the same meteor cannot happen twice in a row.(4) Set:   Arcane, Cold, Fire, and Lightning attacks each increase all of your resistances by 100% for 8 seconds. Attacking with Meteor reduces the cooldown of Teleport by 1 second.(6) Set:   Attacks increase your damage by 2000% for 8 seconds. Arcane, Cold, Fire, and Lightning attacks each add one stack. At 4 stacks, each different elemental attack extends the duration by 2 seconds, up to a maximum of 8 seconds."
+The Oculus,Legendary Source,None, Taking damage has up to a 20% chance to reset the cooldown on Teleport.,None,None
+Cosmic Strand,Legendary Source,None,Teleport gains the effect of the Wormhole rune.,None,None
+Firebird's Eye,Set Source,None,None,None,"(2) Set:   Disintegrate Ignites enemies, causing them to take 3000% weapon damage per second until they die. When you die, a meteor falls from the sky and revives you. This effect has a 60 second cooldown.(4) Set:   Casting Disintegrate adds Combustion stacks that reduce the cooldown of Teleport by 2% per stack. Stacks up to 50 times. You gain 80% damage reduction while maintaining Combustion stacks. (6) Set:   You gain 5000% increased damage while Ignite is applied to a target. Hitting an Ignited enemy with a non-channeling fire spell deals Ignite damage multiplied by Combustion stacks. Pets cannot trigger this effect."
+Primordial Soul,Legendary Source,None, Elemental Exposure's damage bonus per stack is increased to 10%.,None,None
+Orb of Infinite Depth,Legendary Source,None, Each time you hit an enemy with Explosive Blast your damage is increased by 10% and your damage reduction is increased by 20% for 6 seconds. This effect can stack up to 4 times.,None,None
+Gyana Na Kashu,Legendary Spirit Stone,60 - 80, Lashing Tail Kick releases a piercing fireball that deals 1138% weapon damage as Fire to enemies within 10 yards on impact.,None,None
+The Mind's Eye,Legendary Spirit Stone,126 - 149, Inner Sanctuary increases Spirit Regeneration per second by 14.,None,None
+Eye of Peshkov,Legendary Spirit Stone,30 - 35, Reduce the cooldown of Breath of Heaven by 48%.,None,None
+Kekegi's Unbreakable Spirit,Legendary Spirit Stone,30 - 35, Damaging enemies has a chance to grant you an effect that removes the Spirit cost of your abilities for 3 seconds.,None,None
+The Laws of Seph,Legendary Spirit Stone,30 - 35, Using Blinding Flash restores 158 Spirit.,None,None
+Inna's Radiance,Set Spirit Stone,360 - 471,None,Inna's Mantra,"(2) Set:   Increase the passive effect of your Mystic Ally and the base passive effect of your Mantra by 100%.(4) Set:   Gain the base effect of all four Mantras at all times. You gain 5% damage reduction for each Mystic Ally you have out. Your Mystic Allies no longer take damage.(6) Set:   Gain the passive abilities of the five runed Mystic Allies at all times. Attacking enemies creates your chosen Mystic Ally that lasts 15 seconds, up to 10 Mystic Allies. The damage of your Mystic Allies is increased by 900% for each Mystic Ally you have out."
+Madstone,Legendary Spirit Stone,360 - 471, Your Seven-Sided Strike applies Exploding Palm.,None,None
+Tzo Krin's Gaze,Legendary Spirit Stone,322 - 359, Wave of Light is now cast at your enemy.,None,None
+Hellfire Ring,Legendary Ring,None,"Chance on hit to engulf the ground in lava, dealing 200% weapon damage per second for 6 seconds.",None,None
+Hellfire Ring,Legendary Ring,None,Chance to launch an explosive ball of Hellfire when you attack.,None,None
+Band of Might,Legendary Ring,None," After casting Furious Charge, Ground Stomp, or Leap, take 74% reduced damage for 8 seconds.",None,None
+Circle of Nailuj's Evol,Legendary Ring,None, You now raise an additional Skeletal Mage with each cast and they last an additional 4 seconds.,None,None
+Pandemonium Loop,Legendary Ring,None, Enemies slain while Feared die in a bloody explosion and cause other nearby enemies to flee in Fear.,None,None
+Avarice Band,Legendary Ring,None," Each time you pick up gold, increase your Gold and Health Pickup radius by 1 yard for 10 seconds, stacking up to 30 times. (Emanates)",None,None
+Pandemonium Loop,Legendary Ring,None, Enemies slain while Feared die in a bloody explosion for 800% weapon damage and cause other nearby enemies to flee in Fear.,None,None
+Manald Heal,Legendary Ring,None," Enemies stunned with Paralysis also take 13,462% weapon damage as Lightning.",None,None
+Broken Promises,Legendary Ring,None," After 5 consecutive non-critical hits, your chance to critically hit is increased to 100% for 3 seconds.",None,None
+Puzzle Ring,Legendary Ring,None," Summon a treasure goblin who picks up normal-quality items for you. After picking up 16 items, he drops a rare item with a chance for a legendary.",None,None
+Halo of Karini,Legendary Ring,None, You take 74% less damage for 5 seconds after your Storm Armor electrocutes an enemy more than 15 yards away.,None,None
+The Tall Man's Finger,Legendary Ring,None, Zombie Dogs instead summons a single gargantuan dog with more damage and health than all other dogs combined.,None,None
+Rechel's Ring of Larceny,Legendary Ring,None, Gain 57% increased movement speed for 4 seconds after Fearing an enemy.,None,None
+Arcstone,Legendary Ring,None," Lightning pulses periodically between all wearers of this item, dealing 1350% weapon damage.",None,None
+Band of the Rue Chambers,Legendary Ring,None, Your Spirit Generators generate 40% more Spirit.,None,None
+Rogar's Huge Stone,Legendary Ring,None, Increase your Life per Second by up to 95% based on your missing Life.,None,None
+Wyrdward,Legendary Ring,None, Lightning damage has a 25% chance to Stun for 1.5 seconds.,None,None
+The Short Man's Finger,Legendary Ring,None, Gargantuan instead summons three smaller gargantuans that have their damage increased by 596%.,None,None
+Lornelle's Sunstone,Legendary Ring,None, Your damage reduction is increased by 0.89% for every 1% Life you are missing.,None,None
+Nagelring,Legendary Ring,None, Summons a Fallen Lunatic to your side every 10 seconds.,None,None
+Obsidian Ring of the Zodiac,Legendary Ring,None, Reduce the remaining cooldown of one of your skills by 1 second when you hit with a resource-spending attack.,None,None
+Justice Lantern,Legendary Ring,None, Gain damage reduction equal to 47% of your Block Chance.,None,None
+Bul-Kathos's Wedding Band,Legendary Ring,None, You drain life from enemies around you.,None,None
+Eternal Union,Legendary Ring,None, Increases the duration of summoned Phalanx Bowmen and Bodyguard indefinitely.,None,None
+Krysbin's Sentence,Legendary Ring,None, You deal 95% increased damage against slowed enemies or triple this bonus against enemies afflicted by any other type of control-impairing effect.,None,None
+Halo of Arlyse,Legendary Ring,None, Your Ice Armor now reduces damage from melee attacks by 50% and automatically casts Frost Nova whenever you take 10% of your Life in damage.,None,None
+Convention of Elements,Legendary Ring,None," Gain 179% increased damage to a single element for 4 seconds. This non-static effect rotates through the elements available to your class in the following order: Arcane, Cold, Fire, Holy, Lightning, Physical, Poison.",None,None
+Litany of the Undaunted,Set Ring,None,None,Legacy of Nightmares,(2) Set:   While this is your only Item Set bonus every Ancient item you have equipped increases your damage dealt by 750% and reduces your damage taken by 4%.
+The Compass Rose,Set Ring,None,None,Endless Walk,"(2) Set:   While moving, damage taken is reduced by up to 50%.  While standing still, damage dealt is increased by up to 100%."
+The Wailing Host,Set Ring,None,None,Legacy of Nightmares,(2) Set:   While this is your only Item Set bonus every Ancient item you have equipped increases your damage dealt by 750% and reduces your damage taken by 4%.
+Skull Grasp,Legendary Ring,None, Increase the damage of Whirlwind by 328%,None,None
+Stone of Jordan,Legendary Ring,None, Each of your elemental's damage bonus is equal to your highest static elemental bonus to skill.,None,None
+Band of Hollow Whispers,Legendary Ring,None, This ring occasionally haunts nearby enemies.,None,None
+Ring of Emptiness,Legendary Ring,None, You and your non-Fetish pets deal 279% increased damage to enemies affected by either your Haunt or Locust Swarm.,None,None
+Krede's Flame,Legendary Ring,None, Taking Fire damage restores your primary resource. (Emanates),None,None
+Elusive Ring,Legendary Ring,None," After casting Shadow Power, Smoke Screen, or Vault, take 50% reduced damage for 8 seconds.",None,None
+Zunimassa's Pox,Set Ring,None,None,Zunimassa's Haunt,"(2) Set:   Your Fetish Army lasts until they die and the cooldown of your Fetish Army is reduced by 80%.(4) Set:   You and your pets take 3% less damage for every Fetish you have alive.(6) Set:   Enemies hit by your Mana spenders take 15,000% increased damage from your pets for 8 seconds."
+Unity,Legendary Ring,None, All damage taken is split between wearers of this item.,None,None
+Oculus Ring,Legendary Ring,None, Chance to create an area of focused power on killing a monster. Damage is increased by 82% while standing in the area.,None,None
+Natalya's Reflection,Set Ring,None,None,Natalya's Vengeance,"(2) Set:   Reduce the cooldown of Rain of Vengeance by 4 seconds when you hit with a Hatred-generating attack or Hatred-spending attack.(4) Set:   Rain of Vengeance deals 100% increased damage.(6) Set:   After casting Rain of Vengeance, deal 14,000% increased damage and take 60% reduced damage for 10 seconds."
+Focus,Set Ring,None,None,Bastions of Will,"(2) Set:   When you hit with a resource-generating attack or primary skill, deal 50% increased damage for 5 seconds.(2) Set:   When you hit with a resource-spending attack, deal 50% increased damage for 5 seconds."
+Briggs' Wrath,Legendary Ring,None, Uncursed enemies are pulled to the target location when a curse is applied to them.,None,None
+Restraint,Set Ring,None,None,Bastions of Will,"(2) Set:   When you hit with a resource-generating attack or primary skill, deal 50% increased damage for 5 seconds.(2) Set:   When you hit with a resource-spending attack, deal 50% increased damage for 5 seconds."
+Heart of Iron,Legendary Chest Armor,87 - 107, Gain Thorns equal to 257% of your Vitality.,None,None
+Born's Heart of Steel,Set Chest Armor,69 - 86,None,Born's Defiance,(2) Set:   +2% Life  +20% Experience. (2.0% at level 70)
+Aquila Cuirass,Legendary Chest Armor,51 - 68," While above 94% primary resource, all damage taken is reduced by 50%.",None,None
+Chaingmail,Legendary Chest Armor,138 - 167," After earning a survival bonus, quickly heal to full Life.",None,None
+Shi Mizu's Haori,Legendary Chest Armor,51 - 68," While below 24% Life, all attacks are guaranteed Critical Hits.",None,None
+Cindercoat,Legendary Chest Armor,285 - 321, Reduces the resource cost of Fire skills by 27%.,None,None
+Aughild's Dominion,Set Chest Armor,168 - 191,None,Aughild's Victory,(2) Set:   Reduces damage from melee attacks by 2.0%(3) Set:   Reduces damage from ranged attacks by 2.0%.
+Goldskin,Legendary Chest Armor,217 - 246, Chance for enemies to drop gold when you hit them. (Emanates),None,None
+Zunimassa's Marrow,Set Chest Armor,397 - 471,None,Zunimassa's Haunt,"(2) Set:   Your Fetish Army lasts until they die and the cooldown of your Fetish Army is reduced by 80%.(4) Set:   You and your pets take 3% less damage for every Fetish you have alive.(6) Set:   Enemies hit by your Mana spenders take 15,000% increased damage from your pets for 8 seconds."
+Immortal King's Eternal Reign,Set Chest Armor,397 - 471,None,Immortal King's Call,"(2) Set:   Call of the Ancients last until they die.(4) Set:   Reduce the cooldown of Wrath of the Berserker and Call of the Ancients by 3 seconds for every 10 Fury you spend with an attack.(6) Set:   While both Wrath of the Berserker and Call of the Ancients is active, you deal 4000% increased damage."
+Blackthorne's Surcoat,Set Chest Armor,397 - 471,None,Blackthorne's Battlegear,"(2) Set:   +250 Vitality  Increases damage against elites by 10.0%(3) Set:   Reduces damage from elites by 10.0%  +25% Extra Gold from Monsters(4) Set:   You are immune to Desecrator, Molten, and Plagued monster ground effects."
+Demon's Heart,Set Chest Armor,397 - 471,None,Demon's Skin,(2) Set:   +999 Fire Thorns Damage(3) Set:   1.1% Chance to Fear on Hit(4) Set:   +3% Damage to Demons  Chance to reflect projectiles when you are hit by enemies.
+Tal Rasha's Relentless Pursuit,Set Chest Armor,397 - 471,None,Tal Rasha's Elements,"(2) Set:   Damaging enemies with Arcane, Cold, Fire or Lightning will grant immunity to that element and cause a Meteor of the same damage type to fall from the sky. This only occurs if the Wizard has Meteor on their action bar, and the same meteor cannot happen twice in a row.(4) Set:   Arcane, Cold, Fire, and Lightning attacks each increase all of your resistances by 100% for 8 seconds. Attacking with Meteor reduces the cooldown of Teleport by 1 second.(6) Set:   Attacks increase your damage by 2000% for 8 seconds. Arcane, Cold, Fire, and Lightning attacks each add one stack. At 4 stacks, each different elemental attack extends the duration by 2 seconds, up to a maximum of 8 seconds."
+Inna's Vast Expanse,Set Chest Armor,397 - 471,None,Inna's Mantra,"(2) Set:   Increase the passive effect of your Mystic Ally and the base passive effect of your Mantra by 100%.(4) Set:   Gain the base effect of all four Mantras at all times. You gain 5% damage reduction for each Mystic Ally you have out. Your Mystic Allies no longer take damage.(6) Set:   Gain the passive abilities of the five runed Mystic Allies at all times. Attacking enemies creates your chosen Mystic Ally that lasts 15 seconds, up to 10 Mystic Allies. The damage of your Mystic Allies is increased by 900% for each Mystic Ally you have out."
+Bloodsong Mail,Legendary Chest Armor,51 - 68," While in the Land of the Dead, Command Skeletons deals 110% additional damage and gains the effect of the Enforcer, Frenzy, Dark Mending and Freezing Grasp runes.",None,None
+Jade Harvester's Peace,Set Chest Armor,51 - 68,None,Raiment of the Jade Harvester,"(2) Set:   When Haunt lands on an enemy already affected by Haunt, it instantly deals 3500 seconds worth of Haunt damage.(4) Set:   Soul Harvest gains the effect of every rune and has its cooldown reduced by 1 second every time you cast Haunt or Locust Swarm.(6) Set:   Soul Harvest reduces damage taken by 50% for 12 seconds and consumes your damage over time effects on enemies, instantly dealing 10,000 seconds worth of remaining damage."
+Demon's Marrow,Set Chest Armor,660 - 759,None,Demon's Hide,(2) Set:   +6000 Fire Thorns Damage(3) Set:   Chance to Deal 25% Area Damage on Hit.(4) Set:   +15% Damage to Demons  Chance to reflect projectiles when you are hit by enemies.
+Aughild's Rule,Set Chest Armor,660 - 759,None,Aughild's Authority,(2) Set:   Reduces damage taken by 15%.  Increases damage dealt by 30%.(3) Set:   Reduces damage from elites by 30.0%  Increases damage against elites by 30.0%
+Armor of the Kind Regent,Legendary Chest Armor,51 - 68, Smite will now also be cast at a second nearby enemy.,None,None
+Spirit of the Earth,Set Chest Armor,51 - 68,None,Might of the Earth,"(2) Set:   Reduce the cooldown of Earthquake, Avalanche, Leap, and Ground Stomp by 1 second for every 30 Fury you spend with an attack.(4) Set:   Leap causes an Earthquake when you land. Additionally, Leap gains the effect of the Iron Impact rune and the rune's effect and duration are increased by 150%.(6) Set:   Increase the damage of Earthquake, Avalanche, Leap, Ground Stomp, Ancient Spear and Seismic Slam by 20,000%."
+Born's Frozen Soul,Set Chest Armor,660 - 759,None,Born's Command,(2) Set:   +15% Life(3) Set:   Reduces cooldown of all skills by 10.0%.  +20% Experience. (2.0% at level 70)
+The Shadow's Bane,Set Chest Armor,51 - 68,None,The Shadow�s Mantle,"(2) Set:   While equipped with a melee weapon, your damage is increased by 6000%.(4) Set:   Shadow Power gains the effect of every rune and lasts forever.(6) Set:   Impale deals an additional 75,000% weapon damage to the first enemy hit, and 25,000% to subsequent enemies."
+Sunwuko's Soul,Set Chest Armor,51 - 68,None,Monkey King's Garb,"(2) Set:   Your damage taken is reduced by 50% while Sweeping Wind is active.(4) Set:   Every second Sweeping Wind spawns a decoy next to the last enemy you hit that taunts nearby enemies and then explodes for 1000% weapon damage for each stack of Sweeping Wind you have.(6) Set:   Lashing Tail Kick, Tempest Rush, and Wave of Light have their damage increased by 1500% for each stack of Sweeping Wind you have."
+Vyr's Astonishing Aura,Set Chest Armor,51 - 68,None,Vyr's Amazing Arcana,"(2) Set:   Archon gains the effect of every rune.(4) Set:   Archon stacks also increase your Attack Speed, Armor, and Resistances by 1%.(6) Set:   You gain 1 Archon stack when you hit with an Archon ability and Archon stacks also reduce damage taken by 0.15% and have their damage bonus increased to 100%."
+Cuirass of the Wastes,Set Chest Armor,51 - 68,None,Wrath of the Wastes,"(2) Set:   Increase the damage per second of Rend by 500% and its duration to 15 seconds.(4) Set:   During Whirlwind and for 3 seconds after, you gain 50% damage reduction and your applied Rends deal triple damage.(6) Set:   Whirlwind gains the effect of the Dust Devils rune and all Whirlwind and Rend damage is increased by 10,000%."
+Markings of Savages,Set Chest Armor,51 - 68,None,Horde of the Ninety Savages,"(2) Set:   Double the effectiveness of shouts. You deal double damage to Feared, Frozen, or Stunned enemies.(4) Set:   Each Frenzy stack reduces damage taken by 6%. Frenzy lasts twice as long.(6) Set:   Frenzy deals 1000% increased damage per stack."
+Raekor's Heart,Set Chest Armor,51 - 68,None,The Legacy of Raekor,"(2) Set:   Furious Charge refunds a charge if it hits only 1 enemy.(4) Set:   Furious Charge gains the effect of every rune and deals 1000% increased damage. For every 1% Life you are missing, the damage of your Ancient Spear is increased by 2%.(6) Set:   Hitting enemies with Furious Charge or Weapon Throw increases the damage of your next Ancient Spear by 5500% and causes it to release multiple spears from its target. This effect stacks and each spear throw consumes a maximum of 5 stacks."
+Roland's Bearing,Set Chest Armor,51 - 68,None,Roland's Legacy,"(2) Set:   Every use of Shield Bash and Sweep Attack reduces the cooldowns of your Laws and Defensive Skills by 1 second.(4) Set:   Increase the damage of Shield Bash and Sweep Attack by 17,500%.(6) Set:   Every use of Shield Bash or Sweep Attack that hits an enemy grants 75% increased Attack Speed and 15% damage reduction for 8 seconds. This effect stacks up to 5 times."
+Breastplate of Akkhan,Set Chest Armor,51 - 68,None,Armor of Akkhan,"(2) Set:   Judgment has no cooldown and gains the effect of every rune.(4) Set:   Attacks from Phalanx Avatars reduce the cooldown of Akarat's Champion by 0.5 seconds, and also apply Condemn when attacking enemies that are affected by Judgment.(6) Set:   While Akarat's Champion is active, you deal 1500% increased damage and take 50% less damage."
+Heart of the Light,Set Chest Armor,51 - 68,None,Seeker of the Light,"(2) Set:   Every use of Blessed Hammer that hits an enemy reduces the cooldown of Falling Sword and Provoke by 1 second.(4) Set:   You take 50% less damage for 8 seconds after landing with Falling Sword.(6) Set:   Increase the damage of Blessed Hammer by 15,000% and Falling Sword by 1000%."
+Brigandine of Valor,Set Chest Armor,51 - 68,None,Aegis of Valor,"(2) Set:   Attacking with Fists of the Heavens empowers you, allowing Heaven's Fury to deal 125% increased damage for 5 seconds. Stacks up to 3 times.(4) Set:   Hitting with Fist of the Heavens returns 5 Wrath and reduces damage taken by 1% for 10 seconds. Stacks up to 50 times.(6) Set:   Increase the damage of Fist of the Heavens and Heaven's Fury by 20,000%."
+Marauder's Carapace,Set Chest Armor,51 - 68,None,Embodiment of the Marauder,"(2) Set:   Companion calls all companions to your side.(4) Set:   Sentries cast Elemental Arrow, Chakram, Impale, Multishot, and Cluster Arrow when you do, as well as automatically cast your equipped Hatred spenders.(6) Set:   Your primary skills, Elemental Arrow, Chakram, Impale, Multishot, Cluster Arrow, Companions, Vengeance, and Sentries deal 12,000% increased damage for every active Sentry."
+Uliana's Heart,Set Chest Armor,51 - 68,None,Uliana's Stratagem,(2) Set:   Every third hit of your Spirit Generators applies Exploding Palm.(4) Set:   Your Seven-Sided Strike deals 777% its total damage with each hit. All damage taken is reduced by 77% for 7 seconds after applying Exploding Palm to an enemy.(6) Set:   Increase the damage of your Exploding Palm by 9000% and your Seven-Sided Strike detonates your Exploding Palm.
+Heart of the Crashing Wave,Set Chest Armor,51 - 68,None,Raiment of a Thousand Storms,"(2) Set:   Your Spirit Generators have 25% increased attack speed and 400% increased damage.(4) Set:   Dashing Strike spends 75 Spirit, but refunds a Charge when it does.(6) Set:   Your Spirit Generators increase the weapon damage of Dashing Strike to 60,000% for 6 seconds and Dashing Strike increases the damage of your Spirit Generators by 6000% for 6 seconds."
+Lamellars of Justice,Set Chest Armor,51 - 68,None,Patterns of Justice,"(2) Set:   Sweeping Wind gains the effect of every rune, and movement speed is increased by 5% for each stack of Sweeping Wind.(4) Set:   Attacking with Tempest Rush reduces your damage taken by 50% and increases Spirit Regeneration by 50.(6) Set:   Hitting with Tempest Rush while Sweeping Wind is active increases the size of Sweeping Wind and also increases all damage dealt by 15,000%."
+Firebird's Breast,Set Chest Armor,51 - 68,None,Firebird's Finery,"(2) Set:   Disintegrate Ignites enemies, causing them to take 3000% weapon damage per second until they die. When you die, a meteor falls from the sky and revives you. This effect has a 60 second cooldown.(4) Set:   Casting Disintegrate adds Combustion stacks that reduce the cooldown of Teleport by 2% per stack. Stacks up to 50 times. You gain 80% damage reduction while maintaining Combustion stacks. (6) Set:   You gain 5000% increased damage while Ignite is applied to a target. Hitting an Ignited enemy with a non-channeling fire spell deals Ignite damage multiplied by Combustion stacks. Pets cannot trigger this effect."
+Typhon's Thorax,Set Chest Armor,51 - 68,None,The Typhon's Veil,"(2) Set:   Double the duration of Hydras and increase the number of heads on multi-headed Hydras by two.(4) Set:   Damage taken is reduced by 8% for each Hydra head alive. Each time you take damage, a head dies. A head cannot die more than once every 2 seconds.(6) Set:   Hydras deal 2000% increased damage for each Hydra head alive."
+Harness of Truth,Set Chest Armor,51 - 68,None,Delsere's Magnum Opus,"(2) Set:   Hitting an enemy with Arcane Orb, Energy Twister, Magic Missile, Shock Pulse, Spectral Blade, Electrocute, or Arcane Torrent also casts Slow Time at them. This effect will not trigger if the target is already inside a Slow Time bubble. The cooldown of Teleport will reset while you're inside bubbles generated from this set or cast by you.(4) Set:   You take 75% reduced damage while you have a Slow Time active. Allies inside your Slow Time gain half benefit.(6) Set:   Enemies affected by your Slow Time and for 5 seconds after exiting take 12,500% increased damage from your Arcane Orb, Energy Twister, Magic Missile, Shock Pulse, Spectral Blade, Electrocute, and Arcane Torrent abilities."
+Mundunugu's Robe,Set Chest Armor,51 - 68,None,Mundunugu's Regalia,"(2) Set:   Big Bad Voodoo now follows you and lasts twice as long.(4) Set:   Gain 60% damage reduction for 30 seconds when you enter the spirit realm.(6) Set:   Spirit Barrage deals 20,000% increased damage plus an additional % equal to 5 times your Mana Regeneration/Second."
+Helltooth Tunic,Set Chest Armor,51 - 68,None,Helltooth Harness,"(2) Set:   Enemies hit by your primary skills, Acid Cloud, Firebats, Zombie Charger, Zombie Dogs, Gargantuan, Grasp of the Dead, Piranhas, or Wall of Death are afflicted by Necrosis, becoming Slowed and taking 3000% weapon damage every second for 10 seconds.(4) Set:   After applying Necrosis to an enemy, you take 60% reduced damage for 10 seconds.(6) Set:   After casting Wall of Death, gain 17,500% increased damage for 15 seconds to your primary skills, Acid Cloud, Firebats, Zombie Charger, Zombie Dogs, Gargantuan, Grasp of the Dead, Piranhas, and Wall of Death."
+Arachyr's Carapace,Set Chest Armor,51 - 68,None,Spirit of Arachyr,"(2) Set:   Summon a permanent Spider Queen connected to you by an infested thread. Enemies caught in the thread are infested. Corpse Spider attacks against infested enemies inflict the same damage to all infested enemies. The Spider Queen is commanded to move to where you cast your Corpse Spiders. Corpse Spiders now spawns with health.(4) Set:   The Spider Queen now leaves behind webs that lasts for 15 seconds and Slows enemies. Infested enemies remain infested while on the web. You take 75% reduced damage while in the web and for 4 seconds after.(6) Set:   The damage of your creature skills is increased by 25,000%. Creature skills are Corpse Spiders, Plague of Toads, Firebats, Locust Swarm, Hex, and Piranhas."
+Sophisticated Vest,Set Chest Armor,51 - 68,None,Masquerade of the Burning Carnival,"(2) Set:   Simulacrums no longer take damage, gains all runes, and its cooldown is refreshed when you die.(4) Set:   While you have a Simulacrum, damage is reduced by 50%. Damage you take is split with your Simulacrums as well.(6) Set:   Bone Spear cast by you and your Simulacrums deals 6000% increased damage."
+Trag'Oul's Scales,Set Chest Armor,51 - 68,None,Trag'Oul's Avatar,"(2) Set:   Blood Rush and Siphon Blood gain the effect of every rune. Your Life-spending abilities no longer cost Essence.(4) Set:   While at full Life, your healing from skills is added to your maximum Life for 45 seconds, up to 300% more.(6) Set:   Your Life-spending abilities deal 10,000% increased damage and your healing from skills is increased by 100%."
+Rathma's Ribcage Plate,Set Chest Armor,51 - 68,None,Bones of Rathma,"(2) Set:   Your permanent minions reduce the cooldown of Army of the Dead by 0.50 seconds each time they deal damage. Your skeletal warriors spawn faster, and your revived minions no longer expire.(4) Set:   Your minions no longer take damage. You gain 1% damage reduction for 15 seconds each time one of your minions deal damage. Max 75 stacks.(6) Set:   Each permanent active minion increases the damage of Army of the Dead by 1750%, up to 31,500%."
+Pestilence Robe,Set Chest Armor,51 - 68,None,Pestilence Master's Shroud,"(2) Set:   Each corpse you consume fires a Corpse Lance at a nearby enemy.(4) Set:   Each enemy you hit with Bone Spear, Corpse Lance and Corpse Explosion reduces your damage taken by 2%, up to a maximum of 50%.  Lasts 15 seconds.(6) Set:   Each corpse you consume grants you an Empowered Bone Spear charge that increases the damage of your next Bone Spear by 3300%. In addition, Corpse Lance and Corpse Explosion damage is increased by 3300%."
+Inarius's Conviction,Set Chest Armor,51 - 68,None,Grace of Inarius,"(2) Set:   Bone Armor damage is increased by 1000%.(4) Set:   Bone Armor grants an additional 3% damage reduction per enemy hit.(6) Set:   Bone Armor also activates a swirling tornado of bone, damaging nearby enemies for 1000% weapon damage and increasing the damage they take from the Necromancer by 10,000%."
+Requiem Cereplate,Legendary Chest Armor,51 - 68," Devour restores an additional 85% Essence and Life. In addition, when Devour restores Essence or Life above your maximum, the excess is granted over 3 seconds.",None,None
+Quetzalcoatl,Legendary Voodoo Mask,84 - 96, Locust Swarm and Haunt now deal their damage in half of the normal duration.,None,None
+Carnevil,Legendary Voodoo Mask,30 - 35, The 10 Fetishes closest to you will shoot a powerful Poison Dart every time you do.,None,None
+Mask of Jeram,Legendary Voodoo Mask,30 - 35, Pets deal 157% increased damage.,None,None
+The Grin Reaper,Legendary Voodoo Mask,255 - 284, Chance when attacking to summon horrific Mimics that cast some of your equipped skills.,None,None
+Visage of Giyua,Legendary Voodoo Mask,360 - 471, Summon a Fetish Army after you kill 2 Elites.,None,None
+Zunimassa's Vision,Set Voodoo Mask,360 - 471,None,Zunimassa's Haunt,"(2) Set:   Your Fetish Army lasts until they die and the cooldown of your Fetish Army is reduced by 80%.(4) Set:   You and your pets take 3% less damage for every Fetish you have alive.(6) Set:   Enemies hit by your Mana spenders take 15,000% increased damage from your pets for 8 seconds."
+Tiklandian Visage,Legendary Voodoo Mask,360 - 471, Horrify causes you to Fear and Root enemies around you for 7 seconds.,None,None
+Mundunugu's Headdress,Set Voodoo Mask,30 - 35,None,Mundunugu's Regalia,"(2) Set:   Big Bad Voodoo now follows you and lasts twice as long.(4) Set:   Gain 60% damage reduction for 30 seconds when you enter the spirit realm.(6) Set:   Spirit Barrage deals 20,000% increased damage plus an additional % equal to 5 times your Mana Regeneration/Second."
+Hand of the Prophet,Legendary Enchantress Focus,None, Equip on Follower: Gain access to all skills.,None,None
+Smoking Thurible,Legendary Enchantress Focus,None, Equip on Follower: Your follower cannot die.,None,None
+Vadim's Surge,Legendary Enchantress Focus,None, Equip on Follower: Reduce the cooldown of all Follower skills by 50%.,None,None
+Lost Time,Legendary Phylactery,None," Your cold skills reduce the movement speed of enemies by 30%. In addition, your movement speed is increased by 10% for 5 seconds.  Maximum 5 stacks.",None,None
+Iron Rose,Legendary Phylactery,None," Attacking with Siphon Blood has a 100% chance to cast a free Blood Nova. After cumulatively losing 10% of your maximum Life, your Death Nova deals 42% increased damage for 60 seconds. This effect stacks up to 10 times.",None,None
+Leger's Disdain,Legendary Phylactery,None, Grim Scythe deals an additional 67% damage for each point of essence it restores.,None,None
+Bone Ringer,Legendary Phylactery,None, The damage bonus of Command Skeletons increases by 27% per second they spend attacking the same target. This effect stacks up to 60 times.,None,None
+Gloves of Worship,Legendary Gloves,42 - 55, Shrine effects last for 10 minutes. (Emanates),None,None
+Grasps of Essence,Legendary Gloves,42 - 55," When an exploded corpse damages at least one enemy, your Corpse Explosion deals 157% increased damage for 6 seconds, stacking up to 5 times.",None,None
+Cain's Scribe,Set Gloves,56 - 69,None,Cain's Fate,(2) Set:   Attack Speed Increased by 2.0%(3) Set:   10% Better Chance of Finding Magical Items  +50% Experience. (5.0% at level 70)
+Stone Gauntlets,Legendary Gloves,192 - 209," Getting hit increases your armor by 50%, but reduces your movement speed by 15% and attack speed by 20%. This effect stacks up to 5 times.",None,None
+St. Archew's Gage,Legendary Gloves,42 - 55," The first time an elite pack damages you, gain an absorb shield equal to 145% of your maximum Life for 10 seconds.",None,None
+Magefist,Legendary Gloves,42 - 55, Fire skills deal 19% increased damage.,None,None
+Moribund Gauntlets,Legendary Gloves,42 - 55, Your Golem sheds a corpse every second.,None,None
+Gladiator Gauntlets,Legendary Gloves,250 - 279," After earning a massacre bonus, gold rains from sky. (Emanates)",None,None
+Asheara's Iron Fist,Set Gloves,169 - 191,None,Asheara's Uniform,(2) Set:   +30 Resistance to All Elements(3) Set:   2.50% of Damage Dealt Is Converted to Life  +300 Holy Thorns Damage
+Zunimassa's Finger Wraps,Set Gloves,309 - 366,None,Zunimassa's Haunt,"(2) Set:   Your Fetish Army lasts until they die and the cooldown of your Fetish Army is reduced by 80%.(4) Set:   You and your pets take 3% less damage for every Fetish you have alive.(6) Set:   Enemies hit by your Mana spenders take 15,000% increased damage from your pets for 8 seconds."
+Sage's Gesture,Set Gloves,309 - 366,None,Sage's Plight,(2) Set:   +35 Strength  +35 Dexterity  +35 Intelligence  +35 Vitality
+Frostburn,Legendary Gloves,280 - 308, Cold skills deal 19% increased damage and have a 50% chance to Freeze enemies.,None,None
+Tasker and Theo,Legendary Gloves,309 - 366, Increase attack speed of your pets by 45%.,None,None
+Natalya's Touch,Set Gloves,309 - 366,None,Natalya's Vengeance,"(2) Set:   Reduce the cooldown of Rain of Vengeance by 4 seconds when you hit with a Hatred-generating attack or Hatred-spending attack.(4) Set:   Rain of Vengeance deals 100% increased damage.(6) Set:   After casting Rain of Vengeance, deal 14,000% increased damage and take 60% reduced damage for 10 seconds."
+Immortal King's Irons,Set Gloves,309 - 366,None,Immortal King's Call,"(2) Set:   Call of the Ancients last until they die.(4) Set:   Reduce the cooldown of Wrath of the Berserker and Call of the Ancients by 3 seconds for every 10 Fury you spend with an attack.(6) Set:   While both Wrath of the Berserker and Call of the Ancients is active, you deal 4000% increased damage."
+Inna's Hold,Set Gloves,309 - 366,None,Inna's Mantra,"(2) Set:   Increase the passive effect of your Mystic Ally and the base passive effect of your Mantra by 100%.(4) Set:   Gain the base effect of all four Mantras at all times. You gain 5% damage reduction for each Mystic Ally you have out. Your Mystic Allies no longer take damage.(6) Set:   Gain the passive abilities of the five runed Mystic Allies at all times. Attacking enemies creates your chosen Mystic Ally that lasts 15 seconds, up to 10 Mystic Allies. The damage of your Mystic Allies is increased by 900% for each Mystic Ally you have out."
+Tal Rasha's Grasp,Set Gloves,309 - 366,None,Tal Rasha's Elements,"(2) Set:   Damaging enemies with Arcane, Cold, Fire or Lightning will grant immunity to that element and cause a Meteor of the same damage type to fall from the sky. This only occurs if the Wizard has Meteor on their action bar, and the same meteor cannot happen twice in a row.(4) Set:   Arcane, Cold, Fire, and Lightning attacks each increase all of your resistances by 100% for 8 seconds. Attacking with Meteor reduces the cooldown of Teleport by 1 second.(6) Set:   Attacks increase your damage by 2000% for 8 seconds. Arcane, Cold, Fire, and Lightning attacks each add one stack. At 4 stacks, each different elemental attack extends the duration by 2 seconds, up to a maximum of 8 seconds."
+Cain's Scrivener,Set Gloves,513 - 590,None,Cain's Destiny,"(2) Set:   Attack Speed Increased by 8.0%  +50% Experience. (5.0% at level 70)(3) Set:   When a Greater Rift Keystone drops, there is a 25% chance for an extra one to drop. (Emanates)(Emanates)"
+The Shadow's Grasp,Set Gloves,42 - 55,None,The Shadow�s Mantle,"(2) Set:   While equipped with a melee weapon, your damage is increased by 6000%.(4) Set:   Shadow Power gains the effect of every rune and lasts forever.(6) Set:   Impale deals an additional 75,000% weapon damage to the first enemy hit, and 25,000% to subsequent enemies."
+Sunwuko's Paws,Set Gloves,42 - 55,None,Monkey King's Garb,"(2) Set:   Your damage taken is reduced by 50% while Sweeping Wind is active.(4) Set:   Every second Sweeping Wind spawns a decoy next to the last enemy you hit that taunts nearby enemies and then explodes for 1000% weapon damage for each stack of Sweeping Wind you have.(6) Set:   Lashing Tail Kick, Tempest Rush, and Wave of Light have their damage increased by 1500% for each stack of Sweeping Wind you have."
+Asheara's Ward,Set Gloves,513 - 590,None,Asheara's Vestments,(2) Set:   +100 Resistance to All Elements(3) Set:   +20% Life(4) Set:   Attacks cause your followers to occasionally come to your aid.
+Pride of the Invoker,Set Gloves,42 - 55,None,Thorns of the Invoker,"(2) Set:   Your Thorns damage now hits all enemies in a 15 yard radius around you. Each time you hit an enemy with Punish, Slash, or block an attack your Thorns is increased by 90% for 2 seconds. This effect stacks up to 10 times. (4) Set:   You take 50% less damage for 20 seconds after damaging an enemy with Bombardment.(6) Set:   The attack speed of Punish and Slash are increased by 100% and deal 67,500% of your Thorns damage."
+Jade Harvester's Mercy,Set Gloves,42 - 55,None,Raiment of the Jade Harvester,"(2) Set:   When Haunt lands on an enemy already affected by Haunt, it instantly deals 3500 seconds worth of Haunt damage.(4) Set:   Soul Harvest gains the effect of every rune and has its cooldown reduced by 1 second every time you cast Haunt or Locust Swarm.(6) Set:   Soul Harvest reduces damage taken by 50% for 12 seconds and consumes your damage over time effects on enemies, instantly dealing 10,000 seconds worth of remaining damage."
+Pull of the Earth,Set Gloves,42 - 55,None,Might of the Earth,"(2) Set:   Reduce the cooldown of Earthquake, Avalanche, Leap, and Ground Stomp by 1 second for every 30 Fury you spend with an attack.(4) Set:   Leap causes an Earthquake when you land. Additionally, Leap gains the effect of the Iron Impact rune and the rune's effect and duration are increased by 150%.(6) Set:   Increase the damage of Earthquake, Avalanche, Leap, Ground Stomp, Ancient Spear and Seismic Slam by 20,000%."
+Vyr's Grasping Gauntlets,Set Gloves,42 - 55,None,Vyr's Amazing Arcana,"(2) Set:   Archon gains the effect of every rune.(4) Set:   Archon stacks also increase your Attack Speed, Armor, and Resistances by 1%.(6) Set:   You gain 1 Archon stack when you hit with an Archon ability and Archon stacks also reduce damage taken by 0.15% and have their damage bonus increased to 100%."
+Sage's Purchase,Set Gloves,513 - 590,None,Sage's Journey,(2) Set:   +250 Strength  +250 Dexterity  +250 Intelligence  +250 Vitality(3) Set:   Double the amount of Death's Breath that drop. (Emanates)(Emanates)
+Raekor's Wraps,Set Gloves,42 - 55,None,The Legacy of Raekor,"(2) Set:   Furious Charge refunds a charge if it hits only 1 enemy.(4) Set:   Furious Charge gains the effect of every rune and deals 1000% increased damage. For every 1% Life you are missing, the damage of your Ancient Spear is increased by 2%.(6) Set:   Hitting enemies with Furious Charge or Weapon Throw increases the damage of your next Ancient Spear by 5500% and causes it to release multiple spears from its target. This effect stacks and each spear throw consumes a maximum of 5 stacks."
+Gauntlet of the Wastes,Set Gloves,42 - 55,None,Wrath of the Wastes,"(2) Set:   Increase the damage per second of Rend by 500% and its duration to 15 seconds.(4) Set:   During Whirlwind and for 3 seconds after, you gain 50% damage reduction and your applied Rends deal triple damage.(6) Set:   Whirlwind gains the effect of the Dust Devils rune and all Whirlwind and Rend damage is increased by 10,000%."
+Claws of Savages,Set Gloves,42 - 55,None,Horde of the Ninety Savages,"(2) Set:   Double the effectiveness of shouts. You deal double damage to Feared, Frozen, or Stunned enemies.(4) Set:   Each Frenzy stack reduces damage taken by 6%. Frenzy lasts twice as long.(6) Set:   Frenzy deals 1000% increased damage per stack."
+Gauntlets of Valor,Set Gloves,42 - 55,None,Aegis of Valor,"(2) Set:   Attacking with Fists of the Heavens empowers you, allowing Heaven's Fury to deal 125% increased damage for 5 seconds. Stacks up to 3 times.(4) Set:   Hitting with Fist of the Heavens returns 5 Wrath and reduces damage taken by 1% for 10 seconds. Stacks up to 50 times.(6) Set:   Increase the damage of Fist of the Heavens and Heaven's Fury by 20,000%."
+Roland's Grasp,Set Gloves,42 - 55,None,Roland's Legacy,"(2) Set:   Every use of Shield Bash and Sweep Attack reduces the cooldowns of your Laws and Defensive Skills by 1 second.(4) Set:   Increase the damage of Shield Bash and Sweep Attack by 17,500%.(6) Set:   Every use of Shield Bash or Sweep Attack that hits an enemy grants 75% increased Attack Speed and 15% damage reduction for 8 seconds. This effect stacks up to 5 times."
+Gauntlets of Akkhan,Set Gloves,42 - 55,None,Armor of Akkhan,"(2) Set:   Judgment has no cooldown and gains the effect of every rune.(4) Set:   Attacks from Phalanx Avatars reduce the cooldown of Akarat's Champion by 0.5 seconds, and also apply Condemn when attacking enemies that are affected by Judgment.(6) Set:   While Akarat's Champion is active, you deal 1500% increased damage and take 50% less damage."
+Will of the Light,Set Gloves,42 - 55,None,Seeker of the Light,"(2) Set:   Every use of Blessed Hammer that hits an enemy reduces the cooldown of Falling Sword and Provoke by 1 second.(4) Set:   You take 50% less damage for 8 seconds after landing with Falling Sword.(6) Set:   Increase the damage of Blessed Hammer by 15,000% and Falling Sword by 1000%."
+Fiendish Grips,Set Gloves,42 - 55,None,Unhallowed Essence,"(2) Set:   Your generators generate 2 additional Hatred and 1 Discipline.(4) Set:   Gain 60% damage reduction and deal 60% increased damage for 8 seconds if no enemy is within 10 yards of you.(6) Set:   Your generators, Multishot, and Vengeance deal 350% increased damage for every point of Discipline you have."
+Gas Powered Automail Forearm,Set Gloves,42 - 55,None,Gears of Dreadlands,"(2) Set:   Gain 4 seconds of Momentum when attacking with a Primary skill, at a maximum duration of 20 seconds. Your Primary skills deal 10% increased damage per second of Momentum.(4) Set:   Strafing against enemies will automatically shoot your last used primary skill, and also give 60% damage reduction while strafing and for 5 seconds after. While Strafing, you gain 8% increased movement speed for each second of Momentum.(6) Set:   Your primary skills deal 15,000% increased damage."
+Marauder's Gloves,Set Gloves,42 - 55,None,Embodiment of the Marauder,"(2) Set:   Companion calls all companions to your side.(4) Set:   Sentries cast Elemental Arrow, Chakram, Impale, Multishot, and Cluster Arrow when you do, as well as automatically cast your equipped Hatred spenders.(6) Set:   Your primary skills, Elemental Arrow, Chakram, Impale, Multishot, Cluster Arrow, Companions, Vengeance, and Sentries deal 12,000% increased damage for every active Sentry."
+Uliana's Fury,Set Gloves,42 - 55,None,Uliana's Stratagem,(2) Set:   Every third hit of your Spirit Generators applies Exploding Palm.(4) Set:   Your Seven-Sided Strike deals 777% its total damage with each hit. All damage taken is reduced by 77% for 7 seconds after applying Exploding Palm to an enemy.(6) Set:   Increase the damage of your Exploding Palm by 9000% and your Seven-Sided Strike detonates your Exploding Palm.
+Fists of Thunder,Set Gloves,42 - 55,None,Raiment of a Thousand Storms,"(2) Set:   Your Spirit Generators have 25% increased attack speed and 400% increased damage.(4) Set:   Dashing Strike spends 75 Spirit, but refunds a Charge when it does.(6) Set:   Your Spirit Generators increase the weapon damage of Dashing Strike to 60,000% for 6 seconds and Dashing Strike increases the damage of your Spirit Generators by 6000% for 6 seconds."
+Bazubands of Justice,Set Gloves,42 - 55,None,Patterns of Justice,"(2) Set:   Sweeping Wind gains the effect of every rune, and movement speed is increased by 5% for each stack of Sweeping Wind.(4) Set:   Attacking with Tempest Rush reduces your damage taken by 50% and increases Spirit Regeneration by 50.(6) Set:   Hitting with Tempest Rush while Sweeping Wind is active increases the size of Sweeping Wind and also increases all damage dealt by 15,000%."
+Fierce Gauntlets,Set Gloves,42 - 55,None,Delsere's Magnum Opus,"(2) Set:   Hitting an enemy with Arcane Orb, Energy Twister, Magic Missile, Shock Pulse, Spectral Blade, Electrocute, or Arcane Torrent also casts Slow Time at them. This effect will not trigger if the target is already inside a Slow Time bubble. The cooldown of Teleport will reset while you're inside bubbles generated from this set or cast by you.(4) Set:   You take 75% reduced damage while you have a Slow Time active. Allies inside your Slow Time gain half benefit.(6) Set:   Enemies affected by your Slow Time and for 5 seconds after exiting take 12,500% increased damage from your Arcane Orb, Energy Twister, Magic Missile, Shock Pulse, Spectral Blade, Electrocute, and Arcane Torrent abilities."
+Typhon's Claws,Set Gloves,42 - 55,None,The Typhon's Veil,"(2) Set:   Double the duration of Hydras and increase the number of heads on multi-headed Hydras by two.(4) Set:   Damage taken is reduced by 8% for each Hydra head alive. Each time you take damage, a head dies. A head cannot die more than once every 2 seconds.(6) Set:   Hydras deal 2000% increased damage for each Hydra head alive."
+Firebird's Talons,Set Gloves,42 - 55,None,Firebird's Finery,"(2) Set:   Disintegrate Ignites enemies, causing them to take 3000% weapon damage per second until they die. When you die, a meteor falls from the sky and revives you. This effect has a 60 second cooldown.(4) Set:   Casting Disintegrate adds Combustion stacks that reduce the cooldown of Teleport by 2% per stack. Stacks up to 50 times. You gain 80% damage reduction while maintaining Combustion stacks. (6) Set:   You gain 5000% increased damage while Ignite is applied to a target. Hitting an Ignited enemy with a non-channeling fire spell deals Ignite damage multiplied by Combustion stacks. Pets cannot trigger this effect."
+Arachyr's Claws,Set Gloves,42 - 55,None,Spirit of Arachyr,"(2) Set:   Summon a permanent Spider Queen connected to you by an infested thread. Enemies caught in the thread are infested. Corpse Spider attacks against infested enemies inflict the same damage to all infested enemies. The Spider Queen is commanded to move to where you cast your Corpse Spiders. Corpse Spiders now spawns with health.(4) Set:   The Spider Queen now leaves behind webs that lasts for 15 seconds and Slows enemies. Infested enemies remain infested while on the web. You take 75% reduced damage while in the web and for 4 seconds after.(6) Set:   The damage of your creature skills is increased by 25,000%. Creature skills are Corpse Spiders, Plague of Toads, Firebats, Locust Swarm, Hex, and Piranhas."
+Mundunugu's Rhythm,Set Gloves,42 - 55,None,Mundunugu's Regalia,"(2) Set:   Big Bad Voodoo now follows you and lasts twice as long.(4) Set:   Gain 60% damage reduction for 30 seconds when you enter the spirit realm.(6) Set:   Spirit Barrage deals 20,000% increased damage plus an additional % equal to 5 times your Mana Regeneration/Second."
+Helltooth Gauntlets,Set Gloves,42 - 55,None,Helltooth Harness,"(2) Set:   Enemies hit by your primary skills, Acid Cloud, Firebats, Zombie Charger, Zombie Dogs, Gargantuan, Grasp of the Dead, Piranhas, or Wall of Death are afflicted by Necrosis, becoming Slowed and taking 3000% weapon damage every second for 10 seconds.(4) Set:   After applying Necrosis to an enemy, you take 60% reduced damage for 10 seconds.(6) Set:   After casting Wall of Death, gain 17,500% increased damage for 15 seconds to your primary skills, Acid Cloud, Firebats, Zombie Charger, Zombie Dogs, Gargantuan, Grasp of the Dead, Piranhas, and Wall of Death."
+Trag'Oul's Claws,Set Gloves,42 - 55,None,Trag'Oul's Avatar,"(2) Set:   Blood Rush and Siphon Blood gain the effect of every rune. Your Life-spending abilities no longer cost Essence.(4) Set:   While at full Life, your healing from skills is added to your maximum Life for 45 seconds, up to 300% more.(6) Set:   Your Life-spending abilities deal 10,000% increased damage and your healing from skills is increased by 100%."
+Lavishing Gloves,Set Gloves,42 - 55,None,Masquerade of the Burning Carnival,"(2) Set:   Simulacrums no longer take damage, gains all runes, and its cooldown is refreshed when you die.(4) Set:   While you have a Simulacrum, damage is reduced by 50%. Damage you take is split with your Simulacrums as well.(6) Set:   Bone Spear cast by you and your Simulacrums deals 6000% increased damage."
+Pestilence Gloves,Set Gloves,42 - 55,None,Pestilence Master's Shroud,"(2) Set:   Each corpse you consume fires a Corpse Lance at a nearby enemy.(4) Set:   Each enemy you hit with Bone Spear, Corpse Lance and Corpse Explosion reduces your damage taken by 2%, up to a maximum of 50%.  Lasts 15 seconds.(6) Set:   Each corpse you consume grants you an Empowered Bone Spear charge that increases the damage of your next Bone Spear by 3300%. In addition, Corpse Lance and Corpse Explosion damage is increased by 3300%."
+Rathma's Macabre Vambraces,Set Gloves,42 - 55,None,Bones of Rathma,"(2) Set:   Your permanent minions reduce the cooldown of Army of the Dead by 0.50 seconds each time they deal damage. Your skeletal warriors spawn faster, and your revived minions no longer expire.(4) Set:   Your minions no longer take damage. You gain 1% damage reduction for 15 seconds each time one of your minions deal damage. Max 75 stacks.(6) Set:   Each permanent active minion increases the damage of Army of the Dead by 1750%, up to 31,500%."
+Inarius's Will,Set Gloves,42 - 55,None,Grace of Inarius,"(2) Set:   Bone Armor damage is increased by 1000%.(4) Set:   Bone Armor grants an additional 3% damage reduction per enemy hit.(6) Set:   Bone Armor also activates a swirling tornado of bone, damaging nearby enemies for 1000% weapon damage and increasing the damage they take from the Necromancer by 10,000%."
