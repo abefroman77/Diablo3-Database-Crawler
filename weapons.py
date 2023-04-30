@@ -53,7 +53,7 @@ async def scrape_weapon_items(url):
 
                     # If it has a secondary skill, get skill text
                     try:
-                        item_skill = item.find('ul', {'class': 'item-effects'}).span.get_text()
+                        item_skill = item.find('ul', {'class': 'item-effects'}).find('span', {'class': 'd3-color-ffff8000'}).get_text()
                         try:
                             item_skill += item.find('span', {'class': 'd3-color-ffff8000'}).find_next('span', {'class': 'd3-color-ffff0000'}).get_next()
                         except:
@@ -63,6 +63,17 @@ async def scrape_weapon_items(url):
                     if item_skill == '':
                         item_skill = 'None'
                     item_data.append(item_skill)
+
+                    # Get specific class, if any
+                    if 'Set' not in item_type:
+                        try:
+                            class_specific = item.find('span', {'class': 'd3-color-ffff0000'}).get_text()
+                            class_specific = class_specific[1:]
+                            class_specific_list = class_specific.split(" Only")
+                            class_specific = class_specific_list[0]
+                        except:
+                            class_specific = "All"
+                        item_data.insert(0, class_specific)
 
                     # Navigate to item page
                     try:
@@ -75,12 +86,6 @@ async def scrape_weapon_items(url):
                         data = requests.get(item_link)
                         item_link_html = BeautifulSoup(data.text, 'html.parser')
                     
-                    try:
-                        class_specific = item_link_html.find('li', {'class': 'item-class-specific'}).a.get_text().strip()
-                    except:
-                        class_specific = "All"
-                    item_data.insert(0, class_specific)
-
                     # If it's a set item, get set name
                     if 'Set' in item_type:
                         try:
@@ -102,6 +107,13 @@ async def scrape_weapon_items(url):
                         except AttributeError:
                             setStr = 'None'
                             # item_data.append(setStr)
+                        
+                        # If set item is class specific, get class and insert at front of list
+                        try:
+                            class_specific = item_link_html.find('li', {'class': 'item-class-specific'}).a.get_text().strip()
+                        except:
+                            class_specific = 'All'
+                        item_data.insert(0, class_specific)
                     else:
                         setStr = 'None'
 
@@ -126,5 +138,4 @@ async def scrape_weapon_items(url):
                     if item_skill != 'None' or setStr != 'None':
                         items_array.append(item_data)
 
-                #time.sleep(1)
             return items_array

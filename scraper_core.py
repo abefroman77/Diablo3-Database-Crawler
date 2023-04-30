@@ -28,11 +28,11 @@ class_links = [
 def get_all_results():
     loop = asyncio.get_event_loop()
     yield loop.run_until_complete(get_weapon_links())
-    yield loop.run_until_complete(get_armor_links())
-    yield loop.run_until_complete(get_gem_links())
-    for link in class_links:
-        yield loop.run_until_complete(get_active_links(link))
-        yield loop.run_until_complete(get_passive_links(link))
+#    yield loop.run_until_complete(get_armor_links())
+#    yield loop.run_until_complete(get_gem_links())
+#    for link in class_links:
+#        yield loop.run_until_complete(get_active_links(link))
+#        yield loop.run_until_complete(get_passive_links(link))
     loop.close()
 
 
