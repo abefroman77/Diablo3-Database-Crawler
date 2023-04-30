@@ -32,7 +32,7 @@ async def scrape_gems_items(url):
             for item in items_html:
                 name = item.h2
 
-                if name != None:
+                if name != None and name.get_text() != "Whisper of Atonement":
                     # Creating record for item
                     item_data = []
                     item_data.append(name.get_text())

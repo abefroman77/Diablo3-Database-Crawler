@@ -1,6 +1,7 @@
 import asyncio
 import aiohttp
 import requests
+import time
 from bs4 import BeautifulSoup
 
 SITE_URL = 'https://us.diablo3.blizzard.com'
@@ -63,21 +64,29 @@ async def scrape_weapon_items(url):
                         item_skill = 'None'
                     item_data.append(item_skill)
 
+                    # Navigate to item page
+                    try:
+                        item_link = item.h3.a['href']
+                    except AttributeError:
+                        item_link = 'None'
+                        item_set = 'None'
+                    else:
+                        item_link = 'https://us.diablo3.blizzard.com' + item_link
+                        data = requests.get(item_link)
+                        item_link_html = BeautifulSoup(data.text, 'html.parser')
+                    
+                    try:
+                        class_specific = item_link_html.find('li', {'class': 'item-class-specific'}).a.get_text().strip()
+                    except:
+                        class_specific = "All"
+                    item_data.insert(0, class_specific)
+
                     # If it's a set item, get set name
                     if 'Set' in item_type:
                         try:
-                            item_link = item.h3.a['href']
+                            item_set = item_link_html.find('li', {'class': 'item-itemset-name'}).span.p.span.get_text()    
                         except AttributeError:
-                            item_link = 'None'
                             item_set = 'None'
-                        else:
-                            item_link = 'https://us.diablo3.blizzard.com' + item_link
-                            data = requests.get(item_link)
-                            item_link_html = BeautifulSoup(data.text, 'html.parser')
-                            try:
-                                item_set = item_link_html.find('li', {'class': 'item-itemset-name'}).span.p.span.get_text()    
-                            except AttributeError:
-                                item_set = 'None'
                     else:
                         item_set = 'None'
                     
@@ -117,4 +126,5 @@ async def scrape_weapon_items(url):
                     if item_skill != 'None' or setStr != 'None':
                         items_array.append(item_data)
 
+                #time.sleep(1)
             return items_array

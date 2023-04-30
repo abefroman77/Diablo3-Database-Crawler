@@ -76,8 +76,19 @@ async def scrape_armor_items(url):
                                 None
                         except AttributeError:
                             item_skill = 'None'
+                        # Get specific class, if any
+                        try:
+                            class_specific = item.find('span', {'class': 'd3-color-ffff0000'}).get_text()
+                            class_specific = class_specific[1:]
+                            class_specific_list = class_specific.split(" Only")
+                            class_specific = class_specific_list[0]
+                        except:
+                            class_specific = "All"
+                        item_data.insert(0, class_specific)
                     else:
                         item_skill = 'None'
+                        class_specific = "Set" # for filtering later - class not in item page
+                        item_data.insert(0, class_specific)
                     item_data.append(item_skill)
 
                     # If it's a set item, get set name
